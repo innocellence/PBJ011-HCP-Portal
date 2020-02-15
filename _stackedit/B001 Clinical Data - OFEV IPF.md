@@ -45,15 +45,15 @@ product:
 
 # 警告、禁忌及び効能又は効果に関連する注意
 
->1. 警告
->
->本剤の使用は、本剤の適応症の治療に精通している医師のもとで行うこと。
+> 1. 警告
+> 
+> 本剤の使用は、本剤の適応症の治療に精通している医師のもとで行うこと。
 
->2. 禁忌（次の患者には投与しないこと）
->
->2.1. 妊婦又は妊娠している可能性のある女性［9.5 参照］
->
->2.2.  本剤の成分に対し過敏症の既往歴のある患者
+> 2. 禁忌（次の患者には投与しないこと）
+> 
+> 2.1. 妊婦又は妊娠している可能性のある女性［9.5 参照］
+> 
+> 2.2.  本剤の成分に対し過敏症の既往歴のある患者
 
 
 
@@ -69,16 +69,10 @@ product:
 
 # 用法・用量及び関連する注意
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+通常、成人にはニンテダニブとして1回150mgを1日2回、朝・夕食後に経口投与する。なお、患者の状態によりニンテダニブとして1回100mgの1日2回投与へ減量する。
 
 
-## Sub-section title
 
-1. Lorem ipsum dolor sit amet, consectetur adipiscing [^2] elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-	1. Lorem ipsum dolor sit amet. 
-	2. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-2. Lorem ipsum dolor sit amet, consectetur adipiscing [^3] elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-3. Excepteur sint [link](url) cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
 
 # Downloads
@@ -92,6 +86,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2OTgxOTQ0LC0xMjcwNDA2MDM4LC02NT
-I2MzUwMTRdfQ==
+eyJoaXN0b3J5IjpbMTE0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNj
+UyNjM1MDE0XX0=
 -->
