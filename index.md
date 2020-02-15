@@ -2,14 +2,13 @@
 title: Home
 exclude: true
 ---
-<!--{% assign portfolio = site.posts | where: "category", "portfolio" | sort: 'title' %}-->
+{% assign files = site.pages | where_exp: "page", "page.exclude != true" %}
+
 
 # Page Index
 
 <ul class="list--index">
-  {% for page in site.posts %}
-  {% unless page.exclude == true %}
-  <li><a href="{{ page.url }}"><span>{{ page.title }}</span><br><small>Template: {{ page.layout }}</small><br><small>Filename: {{ page.name }}</small></a></li>
-  {% endunless %}
+  {% for file in files %}
+  <li><a href="{{ page.url }}"><span>{{ file.title }}</span><br><small>Template: {{ file.layout }}</small><br><small>Filename: {{ file.name }}</small></a></li>
   {% endfor %}
 </ul>

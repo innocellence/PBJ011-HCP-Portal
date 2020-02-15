@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "main.css",
+	"file": "styles.css",
 	"sources": [
-		"main.scss",
+		"styles.scss",
 		"assets/_scss/vendor/__dir.scss",
 		"assets/_scss/vendor/_stackedit.scss",
 		"assets/_scss/globals/__dir.scss",
