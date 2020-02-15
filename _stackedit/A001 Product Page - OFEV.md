@@ -22,10 +22,10 @@ breadcrumb:
 
 # indications
 indication-count: 3
-indication-header: Product/Brand Name® Indicaitons
+indication-header: OFEV® Indicaitons
 indications:
   - indication:
-    title: Product/Brand Name® for Indicaiton X
+    title: OFEV® for IPF
     supplemental: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor.
     button: See all clinical data
     button-url: #
@@ -38,7 +38,7 @@ indications:
       - link  
 
   - indication:
-    title: Product/Brand Name® for Indicaiton X
+    title: OFEV® for SSC-ILD
     supplemental: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor.
     button: See all clinical data
     button-url: #
@@ -51,7 +51,7 @@ indications:
       - link  
       
   - indication:
-    title: Product/Brand Name® for Indicaiton X
+    title: OFEV® for PF-ILD
     supplemental: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor.
     button: See all clinical data
     button-url: #
@@ -74,5 +74,5 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI3MDE3MDJdfQ==
+eyJoaXN0b3J5IjpbNTE3ODUxODQ4XX0=
 -->
