@@ -1,7 +1,7 @@
 ---
 # base
 layout: B
-title: GIOTRIF® for NSCLC
+title: ジオトリフ® for NSCLC
 
 # seo
 author: 日本ベーリンガーインゲルハイム株式会社
@@ -17,10 +17,10 @@ breadcrumb:
     label: Home
     url: #
   - level-2: 
-    label: GIOTRIF®
+    label: ジオトリフ®
     url: #
   - level-3: 
-    label: GIOTRIF® for NSCLC
+    label: ジオトリフ® for NSCLC
     url: #
 
 # content 
@@ -30,7 +30,7 @@ introduction: The product has been used to treat condition X since date Y. Lorem
 product:
   - name: 
     label: name
-    value: GIOTRIF®
+    value: ジオトリフ®
   - type: 
     label: type
     value: Prescription Drug
@@ -97,5 +97,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjMyNDIzXX0=
+eyJoaXN0b3J5IjpbMjQzMzkwNjk1LDIxMzIzMjQyM119
 -->
