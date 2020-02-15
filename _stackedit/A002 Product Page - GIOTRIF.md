@@ -40,12 +40,12 @@ indications:
 
 # resources
 resource-count: 3
-resource-header: Product/Brand Name® Resources
+resource-header: GIOTRIF® Resources
 resource-button: See all resources
 resource-button-url: #
 
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTExMDgyOTgsNTkxODE5Nzk2XX0=
+eyJoaXN0b3J5IjpbMTM3OTkwMzc4Niw1OTE4MTk3OTZdfQ==
 -->
