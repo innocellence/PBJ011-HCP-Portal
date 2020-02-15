@@ -45,13 +45,12 @@ product:
 
 # 警告、禁忌及び効能又は効果に関連する注意
 
-> 1.	警告
+> 1. 警告
 > 本剤の使用は、本剤の適応症の治療に精通している医師のもとで行うこと。
 
-> 2.禁忌（次の患者には投与しないこと）
->
->	2.1.  妊婦又は妊娠している可能性のある女性［9.5 参照］
-	2.2.  本剤の成分に対し過敏症の既往歴のある患者
+> 2. 禁忌（次の患者には投与しないこと）
+> 2.1. 妊婦又は妊娠している可能性のある女性［9.5 参照］
+> 2.2.  本剤の成分に対し過敏症の既往歴のある患者
 
 > 1.1 List Item
 >
@@ -100,6 +99,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzQ0Nzc0NiwtMTI3MDQwNjAzOCwtNj
-UyNjM1MDE0XX0=
+eyJoaXN0b3J5IjpbLTEwNTM3MDc2NzgsLTEyNzA0MDYwMzgsLT
+Y1MjYzNTAxNF19
 -->
