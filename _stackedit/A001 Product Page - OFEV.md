@@ -27,12 +27,12 @@ indications:
   - indication:
     title: OFEV® for IPF
     supplemental: オフェブ®（一般名：ニンテダニブエタンスルホン酸塩）は、血小板由来増殖因子受容体（PDGFR）α、βおよび線維芽細胞増殖因子受容体（FGFR）1、2、3 および血管内皮増殖因子受容体（VEGFR）を標的とする、低分子チロシンキナーゼ阻害剤です。
-    button: See all clinical data
+    button: すべての添付文書記載情報を見る
     button-url: #
     links: 
-      - link
-      - link
-      - link
+      - 警告・禁忌、効能又は効果
+      - 用法・用量
+      - 副作用
       - link  
       - link
       - link  
@@ -74,5 +74,5 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3ODE0MDI2XX0=
+eyJoaXN0b3J5IjpbLTY0NDA0MDQyMV19
 -->
