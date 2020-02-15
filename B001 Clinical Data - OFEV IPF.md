@@ -187,6 +187,7 @@ product:
 ## 適用上の注意及びその他の注意
 
 1. **適用上の注意**
+
 	薬剤交付時の注意
 		1. PTP 包装の薬剤はPTP シートから取り出して服用するよう指導すること。PTP シートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することが報告されている。
 		2. 本剤は吸湿性があるので、服用直前にPTP シートから取り出すよう指導すること。また、アルミピロー包装注）のまま調剤を行うことが望ましい。
@@ -228,7 +229,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDQ0MzM4NCw3MDA3MjQxNzEsLTMyMz
+eyJoaXN0b3J5IjpbMTE2MjA3ODUzOCw3MDA3MjQxNzEsLTMyMz
 Y1NzMyMywyMjU2NjYxNzYsMTIwMjQ2MTQ3NCwtOTg1NjMyODY3
 LDI2NDE0NzY0OSwtMTg4NjY5MzA2MiwxOTc3Mzk2MTI2LC0xOT
 k5NjgyMTUsMTE0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNjUyNjM1
