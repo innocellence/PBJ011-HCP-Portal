@@ -67,12 +67,12 @@ indications:
 
 # resources
 resource-count: 3
-resource-header: Product/Brand Name® Resources
+resource-header: OFEV® Resources
 resource-button: See all resources
 resource-button-url: #
 
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3ODUxODQ4XX0=
+eyJoaXN0b3J5IjpbLTgwODg0MDE4OF19
 -->
