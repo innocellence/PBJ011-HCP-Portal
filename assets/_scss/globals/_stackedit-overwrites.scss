@@ -146,15 +146,16 @@ blockquote {
 }
     
 ol {
-  counter-reset: list;
+  counter-reset: section;
   padding-inline-start: 3em; 
+  
   > li {
     list-style: none;
     position: relative;
   }
   > li:before {
-    counter-increment: list;
-    content: counter(list, decimal) ". ";
+    counter-increment: section;
+    content: counter(section, decimal) ". ";
     position: absolute;
     left: -2em;
   }
@@ -168,9 +169,9 @@ ol ol {
     position: relative;
   }
   > li:before {
-    counter-increment: list;
-    content: "(" counter(list, decimal) ") ";
+    counter-increment: section;
+    content: "(" counters(section, ".") ") ";
     position: absolute;
-    left: -2em;
+    left: -3em;
   }
 }

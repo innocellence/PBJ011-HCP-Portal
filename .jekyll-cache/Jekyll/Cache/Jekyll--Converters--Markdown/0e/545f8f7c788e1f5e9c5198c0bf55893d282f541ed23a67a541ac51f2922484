@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Home</title>
-  <meta name="keywords" content="">
-  <meta name="description" content="">
-  <meta name="author" content="">
-  <!-- styles --> 
-  <link rel="stylesheet" href="assets/css/style.css" />
-</head>
-<body>  
-  
+I"¥
 <div class="stackedit">
   <div class="stackedit__html wide">
     <h1>Page Index</h1>
@@ -53,10 +39,4 @@
     </ul>
   </div>
 </div>
-
-  
-  <!-- scripts --> 
-  <script type="text/javascript" src="assets/js/libs/jquery-2.1.4.min.js"></script>  
-  <script type="text/javascript" src="assets/js/scripts.js"></script>
-</body>
-</html>
+:ET
