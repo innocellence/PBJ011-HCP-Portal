@@ -24,13 +24,13 @@ breadcrumb:
     url: #
 
 # content 
-introduction: The product has been used to treat condition X since date Y. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor.
+introduction: オフェブ®（一般名：ニンテダニブエタンスルホン酸塩）は、血小板由来増殖因子受容体（PDGFR）α、βおよび線維芽細胞増殖因子受容体（FGFR）1、2、3 および血管内皮増殖因子受容体（VEGFR）を標的とする、低分子チロシンキナーゼ阻害剤です。
 
 # product table
 product:
   - name: 
     label: name
-    value: オフェブ®
+    value: オフェブカプセル 100mg/150mg
   - type: 
     label: type
     value: Prescription Drug
@@ -97,5 +97,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjU5NjA5LC02NTI2MzUwMTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNDQ3MjI2MDcsLTY1MjYzNTAxNF19
 -->
