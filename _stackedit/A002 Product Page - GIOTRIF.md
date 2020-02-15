@@ -25,7 +25,7 @@ indication-count: 1
 indication-header: Product/Brand Name® Indicaitons
 indications:
   - indication:
-    title: Product/Brand Name® for Indicaiton X
+    title: GIOTRIF® for NSCLC
     supplemental: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor.
     button: See all clinical data
     button-url: #
@@ -47,5 +47,5 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTkwMzc4Niw1OTE4MTk3OTZdfQ==
+eyJoaXN0b3J5IjpbNjI5MDQ3MjYxLDU5MTgxOTc5Nl19
 -->
