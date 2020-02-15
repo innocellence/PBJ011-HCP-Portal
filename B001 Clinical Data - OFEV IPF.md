@@ -130,7 +130,7 @@ product:
 
 
 
-## 相互作用
+# 相互作用
 
 本剤はP-糖蛋白の基質である。
 
@@ -181,7 +181,7 @@ product:
 なし
 
 
-## 適用上の注意及びその他の注意
+# 適用上の注意及びその他の注意
 
 1. **適用上の注意**
   
@@ -202,7 +202,7 @@ product:
 
 
 
-## 臨床成績（有効性・安全性）
+# 臨床成績（有効性・安全性）
 
 1. 国際共同第Ⅲ相試験(試験1199.32)
   
@@ -401,10 +401,10 @@ a）投与群、性別、年齢及び身長を固定効果、切片及び時期�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg2MTI1MzMsMjg5ODM5MDI5LDE5Mz
-AzOTA1NDksMjQ2MTEwOTg1LC03NDc1NDAyMzMsMTMzMjgwNjM3
-MCw3MDA3MjQxNzEsLTMyMzY1NzMyMywyMjU2NjYxNzYsMTIwMj
-Q2MTQ3NCwtOTg1NjMyODY3LDI2NDE0NzY0OSwtMTg4NjY5MzA2
-MiwxOTc3Mzk2MTI2LC0xOTk5NjgyMTUsMTE0MTg2MTUwOCwtMT
-I3MDQwNjAzOCwtNjUyNjM1MDE0XX0=
+eyJoaXN0b3J5IjpbOTY1Mjc2NTAwLDI4OTgzOTAyOSwxOTMwMz
+kwNTQ5LDI0NjExMDk4NSwtNzQ3NTQwMjMzLDEzMzI4MDYzNzAs
+NzAwNzI0MTcxLC0zMjM2NTczMjMsMjI1NjY2MTc2LDEyMDI0Nj
+E0NzQsLTk4NTYzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIs
+MTk3NzM5NjEyNiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNz
+A0MDYwMzgsLTY1MjYzNTAxNF19
 -->
