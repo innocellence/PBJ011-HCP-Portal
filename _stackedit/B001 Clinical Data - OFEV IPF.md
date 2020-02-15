@@ -149,17 +149,14 @@ product:
 
 11. 次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。
 
-12.  **重大な副作用**
-	13. <特発性肺線維症>
+1.  **重大な副作用**
+	<特発性肺線維症>
+	1. **重度の下** 痢（3.3%）  
+		下痢症状がみられる場合は速やかに補液やロペラミド等の止瀉剤投与を行い、本剤による治療の中断を検討すること。これらの対症療法にもかかわらず持続するような重度の下痢の場合は、本剤による治療を中止し、再投与は行わないこと。［7.1参照］
+	2. **肝機能障害**（0.9%）
+		［7.2、 8.1 参照］
 
-13. **重度の下** 痢（3.3%）  
-下痢症状がみられる場合は速やかに補液やロペラミド等の止瀉剤投与を行い、本剤による治療の中断を検討すること。これらの対症療法にもかかわらず持続するような重度の下痢の場合は、本剤による治療を中止し、再投与は行わないこと。［7.1参照］
-
-**2)肝機能障害**（0.9%）
-
-<![if !supportLists]>［7.2、 <![endif]>8.1 参照］
-
-**3)****血栓塞栓症**（**静脈血栓塞栓**（頻度不明）、**動脈血栓塞栓**（0.5%））
+	3)****血栓塞栓症**（**静脈血栓塞栓**（頻度不明）、**動脈血栓塞栓**（0.5%））
 
 4)**血小板減少**（頻度不明）  
 血小板減少があらわれ、出血に至った重篤な症例も報告されている。[8.2参照]
@@ -192,8 +189,8 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDgyOTE2OSwtMzIzNjU3MzIzLDIyNT
-Y2NjE3NiwxMjAyNDYxNDc0LC05ODU2MzI4NjcsMjY0MTQ3NjQ5
-LC0xODg2NjkzMDYyLDE5NzczOTYxMjYsLTE5OTk2ODIxNSwxMT
-QxODYxNTA4LC0xMjcwNDA2MDM4LC02NTI2MzUwMTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MTY0OTQyMzMsLTMyMzY1NzMyMywyMj
+U2NjYxNzYsMTIwMjQ2MTQ3NCwtOTg1NjMyODY3LDI2NDE0NzY0
+OSwtMTg4NjY5MzA2MiwxOTc3Mzk2MTI2LC0xOTk5NjgyMTUsMT
+E0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNjUyNjM1MDE0XX0=
 -->
