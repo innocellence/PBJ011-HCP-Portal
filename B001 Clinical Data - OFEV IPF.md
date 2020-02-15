@@ -102,9 +102,9 @@ product:
  4. 生殖能を有する者<br>本剤投与開始前に妊娠検査を実施し，投与中も適宜実施すること。妊娠可能な女性は本剤の投与中及び投与終了の少なくとも3カ月後までは極めて有効な避妊措置をとること。ホルモン避妊剤を服用中はホルモン剤以外の避妊法を併用すること。現時点で本剤がホルモン避妊剤の効果を減弱するかどうかは不明である。
  5. 妊婦<br>
 	妊婦又は妊娠している可能性のある女性には投与しないこと。動物（ラット、ウサギ）を用いた生殖発生毒性試験で催奇形性作用及び胚・胎児致死作用が認められている。［2.1参照］
-6. List item
-
-授乳婦
+6. 授乳婦 <br>
+   低出生体重児、新生児、乳児、幼児又は小児に対する安全性は確立していない。［使用経験がない］
+7. 小児等  
 
 
 # Downloads
@@ -121,7 +121,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODA0NzQ4MiwtOTg1NjMyODY3LDI2ND
+eyJoaXN0b3J5IjpbMTIwMjQ2MTQ3NCwtOTg1NjMyODY3LDI2ND
 E0NzY0OSwtMTg4NjY5MzA2MiwxOTc3Mzk2MTI2LC0xOTk5Njgy
 MTUsMTE0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNjUyNjM1MDE0XX
 0=
