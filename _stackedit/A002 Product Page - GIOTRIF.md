@@ -30,12 +30,12 @@ indications:
     button: See all clinical data
     button-url: #
     links: 
-      - link
-      - link
-      - link
-      - link  
-      - link
-      - link
+      - 警告・禁忌、効能又は効果
+      - 用法・用量
+      - 副作用
+      - 組成・性状及び作用機序  
+      - 重要な基本的注意及びその他の注意
+      - 臨床成績（有効性及び安全性）
   
 
 # resources
@@ -47,5 +47,6 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk2MjI2MzksNTkxODE5Nzk2XX0=
+eyJoaXN0b3J5IjpbLTEyNDcyOTU3NjYsLTE2ODk2MjI2MzksNT
+kxODE5Nzk2XX0=
 -->
