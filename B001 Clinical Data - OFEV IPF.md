@@ -47,12 +47,12 @@ product:
 
 
 
-> 警告
+> **警告**
 > 
 > 本剤の使用は、本剤の適応症の治療に精通している医師のもとで行うこと。
 
 
-> 禁忌（次の患者には投与しないこと）
+> **禁忌（次の患者には投与しないこと）**
 > 	 1. 妊婦又は妊娠している可能性のある女性 [9.5 参照]
 > 	 2. 本剤の成分に対し過敏症の既往歴のある患者
 
@@ -150,7 +150,7 @@ product:
 **<特発性肺線維症>**
 
 1. 重大な副作用
-	1. **重度の下** 痢（3.3%）
+	1. **重度の下痢**（3.3%）
 		1. 下痢症状がみられる場合は速やかに補液やロペラミド等の止瀉剤投与を行い、本剤による治療の中断を検討すること。これらの対症療法にもかかわらず持続するような重度の下痢の場合は、本剤による治療を中止し、再投与は行わないこと。［7.1参照］
 	2. **肝機能障害**（0.9%）［7.2、 8.1 参照］
 	3. **血栓塞栓症**（**静脈血栓塞栓**（頻度不明）、**動脈血栓塞栓**（0.5%））
@@ -234,10 +234,10 @@ a）投与群、性別、年齢及び身長を固定効果、切片及び時期�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDM5MDU0OSwyNDYxMTA5ODUsLTc0Nz
-U0MDIzMywxMzMyODA2MzcwLDcwMDcyNDE3MSwtMzIzNjU3MzIz
-LDIyNTY2NjE3NiwxMjAyNDYxNDc0LC05ODU2MzI4NjcsMjY0MT
-Q3NjQ5LC0xODg2NjkzMDYyLDE5NzczOTYxMjYsLTE5OTk2ODIx
-NSwxMTQxODYxNTA4LC0xMjcwNDA2MDM4LC02NTI2MzUwMTRdfQ
-==
+eyJoaXN0b3J5IjpbLTQ1NzUyNjM0OSwxOTMwMzkwNTQ5LDI0Nj
+ExMDk4NSwtNzQ3NTQwMjMzLDEzMzI4MDYzNzAsNzAwNzI0MTcx
+LC0zMjM2NTczMjMsMjI1NjY2MTc2LDEyMDI0NjE0NzQsLTk4NT
+YzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3NzM5NjEy
+NiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYwMzgsLT
+Y1MjYzNTAxNF19
 -->
