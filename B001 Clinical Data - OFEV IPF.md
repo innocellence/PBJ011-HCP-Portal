@@ -97,6 +97,7 @@ product:
 	血栓塞栓事象の発現を助長する可能性がある。
 2. 出血性素因のある患者、抗凝固剤治療を行っている患者
 	出血リスクを助長する可能性がある。
+	（3）肝機能障害患者
 
 # Downloads
 
@@ -112,7 +113,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0MTQ3NjQ5LC0xODg2NjkzMDYyLDE5Nz
-czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
-MDM4LC02NTI2MzUwMTRdfQ==
+eyJoaXN0b3J5IjpbLTEyNzQ1MTkwMDcsMjY0MTQ3NjQ5LC0xOD
+g2NjkzMDYyLDE5NzczOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYx
+NTA4LC0xMjcwNDA2MDM4LC02NTI2MzUwMTRdfQ==
 -->
