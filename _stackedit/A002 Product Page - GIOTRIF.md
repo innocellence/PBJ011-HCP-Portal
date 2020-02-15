@@ -1,7 +1,7 @@
 ---
 # base
 layout: A
-title: GIOTRIF®
+title: ジオトリフ®
 
 # seo
 author: 日本ベーリンガーインゲルハイム株式会社
@@ -27,7 +27,7 @@ indications:
   - indication:
     title: ジオトリフ® for NSCLC
     supplemental: ジオトリフ®（一般名：アファチニブマレイン酸塩）は、ErbBファミリーを不可逆的に阻害する経口の抗悪性腫瘍剤／チロシンキナーゼ阻害剤です。
-    button: See all clinical data
+    button: すべての添付文書記載情報を見る
     button-url: #
     links: 
       - 警告・禁忌、効能又は効果
@@ -47,6 +47,6 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDk2MTg3NiwtMTY4OTYyMjYzOSw1OT
-E4MTk3OTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MTQyMjU5MDUsLTE2ODk2MjI2MzksNT
+kxODE5Nzk2XX0=
 -->
