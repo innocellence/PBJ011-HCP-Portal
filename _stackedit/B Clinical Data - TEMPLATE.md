@@ -11,7 +11,7 @@ featuredImage: url
 date: YYYY-MM-DD
 
 # layout
-brand-banner: NAME
+brand-banner: OFEVNAME
 breadcrumb:
   - level-1: 
     label: Page Name
@@ -97,5 +97,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTk0NjYwMV19
+eyJoaXN0b3J5IjpbMTkwNTI3OTE4M119
 -->
