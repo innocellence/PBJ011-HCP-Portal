@@ -45,34 +45,29 @@ product:
 
 # 警告、禁忌及び効能又は効果に関連する注意
 
->1. 警告
+> 1. 警告
+>
 >本剤の使用は、本剤の適応症の治療に精通している医師のもとで行うこと。
 
 >2. 禁忌（次の患者には投与しないこと）
+>
 >2.1. 妊婦又は妊娠している可能性のある女性［9.5 参照］
+>
 >2.2.  本剤の成分に対し過敏症の既往歴のある患者
 
 
 
-## (1) Sub-section title
+## 【効能又は効果】
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+特発性肺繊維症
 
-## (2) Sub-section title
+## 効能・効果に関連する使用上の注意
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-
-## 2. Sub-section title
-
-1. Lorem ipsum dolor sit amet, consectetur adipiscing [^1] elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-3. Excepteur sint [link](url) cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-	1. Lorem ipsum dolor sit amet. 
-	2. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-	3. Excepteur sint link cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+なし
 
 
-# Section Header
+
+# 用法・用量及び関連する注意
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -97,6 +92,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY0NzQ3MTcsLTEyNzA0MDYwMzgsLT
-Y1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbMTI3NDA4Njg2NiwtMTI3MDQwNjAzOCwtNj
+UyNjM1MDE0XX0=
 -->
