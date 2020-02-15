@@ -55,14 +55,20 @@ product:
 	 3. 本剤の成分に対し過敏症の既往歴のある患者
 
 
+
+
 > 1. 警告
 > 
 > 本剤の使用は、本剤の適応症の治療に精通している医師のもとで行うこと。
+
+
 
 > {:start="2"}
 > 1. 禁忌（次の患者には投与しないこと）
 > 	 2. 妊婦又は妊娠している可能性のある女性[［9.5 参照］](url)
 > 	 3. 本剤の成分に対し過敏症の既往歴のある患者
+
+
 
 ## 【効能又は効果】
 
@@ -84,6 +90,11 @@ product:
 1. 下痢、悪心、嘔吐等の副作用が認められた場合は、対症療法などの適切な処置を行ったうえ、本剤の治療		   が可能な状態に回復するまでの間、減量又は治療の中断を検討すること。治療の中断後再開する場合は1回		   100mg、1日2回から再開することを検討すること。患者の状態に応じて1回150mg、1日2回へ増量するこ		   とができる。再投与又は増量する場合は慎重に投与し、投与後は患者の状態を十分に観察すること。
 2. AST 又はALT が基準値上限の3倍を超えた場合は、本剤の減量又は治療の中断を行い、十分な経過観察を行		   うこと。治療を中断し投与を再開する場合には、AST 又はALT が投与前の状態に回復した後、1回100mg、		   1日2回から投与することとし、患者の状態に応じて1回150mg、1日2回へ増量することが
 
+
+# 重要な基本的注意
+
+
+
 # Downloads
 
 [Link](url)
@@ -98,7 +109,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkyNTk4MTYsLTE4ODY2OTMwNjIsMT
-k3NzM5NjEyNiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0
-MDYwMzgsLTY1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbMTI0MTE4Njc3NCwtMTg4NjY5MzA2MiwxOT
+c3Mzk2MTI2LC0xOTk5NjgyMTUsMTE0MTg2MTUwOCwtMTI3MDQw
+NjAzOCwtNjUyNjM1MDE0XX0=
 -->
