@@ -147,6 +147,7 @@ product:
 
 ## 副作用
 
+{:start="11"}
 1. 次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。
 	2. **重大な副作用**
 		<特発性肺線維症>
@@ -183,8 +184,8 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk3MDgzNDQsLTMyMzY1NzMyMywyMj
-U2NjYxNzYsMTIwMjQ2MTQ3NCwtOTg1NjMyODY3LDI2NDE0NzY0
-OSwtMTg4NjY5MzA2MiwxOTc3Mzk2MTI2LC0xOTk5NjgyMTUsMT
-E0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNjUyNjM1MDE0XX0=
+eyJoaXN0b3J5IjpbMjAwOTE0MDEyNSwtMzIzNjU3MzIzLDIyNT
+Y2NjE3NiwxMjAyNDYxNDc0LC05ODU2MzI4NjcsMjY0MTQ3NjQ5
+LC0xODg2NjkzMDYyLDE5NzczOTYxMjYsLTE5OTk2ODIxNSwxMT
+QxODYxNTA4LC0xMjcwNDA2MDM4LC02NTI2MzUwMTRdfQ==
 -->
