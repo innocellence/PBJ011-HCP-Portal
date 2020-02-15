@@ -67,12 +67,12 @@ indications:
 
 # resources
 resource-count: 3
-resource-header: O® Resources
+resource-header: OFEV® Resources
 resource-button: See all resources
 resource-button-url: #
 
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMDg3NjAxLC00MjczNzU3MjJdfQ==
+eyJoaXN0b3J5IjpbLTgwODg0MDE4OCwtNDI3Mzc1NzIyXX0=
 -->
