@@ -13,7 +13,7 @@ exclude: true
       {% if file.name contains "TEMPLATE" %}
       <li class="template"><a href="{{ file.url | prepend: site.baseurl }}">Template: {{ file.name }}</a></li>
       {% else %}
-      <li><a href="{{ file.url | prepend: site.baseurl }}"><span>{{ file.title }}</span><br><small>Template: {{ file.layout }}</small><br><small>Filename: {{ file.name }}</small></a></li>
+      <li><a href="{{ file.url | prepend: site.baseurl }}"><span>{{ file.name }}</span><br><small>Template: {{ file.layout }}</small><br><small>Page Title: {{ file.title }}</small></a></li>
       {% endif %}
       {% endfor %}
     </ul>
