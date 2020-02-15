@@ -216,6 +216,7 @@ product:
 | 変化量（mL） | -90.9±242.7（250） | -201.8±305.9（165） |
 
 平均値±標準偏差（例数）
+
 a）投与群、性別、年齢及び身長を固定効果、切片及び時期（数値変数）を変量効果としたランダム係数回帰モデル
 
 
@@ -234,9 +235,9 @@ a）投与群、性別、年齢及び身長を固定効果、切片及び時期�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzU0MDIzMywxMzMyODA2MzcwLDcwMD
-cyNDE3MSwtMzIzNjU3MzIzLDIyNTY2NjE3NiwxMjAyNDYxNDc0
-LC05ODU2MzI4NjcsMjY0MTQ3NjQ5LC0xODg2NjkzMDYyLDE5Nz
-czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
-MDM4LC02NTI2MzUwMTRdfQ==
+eyJoaXN0b3J5IjpbMjQ2MTEwOTg1LC03NDc1NDAyMzMsMTMzMj
+gwNjM3MCw3MDA3MjQxNzEsLTMyMzY1NzMyMywyMjU2NjYxNzYs
+MTIwMjQ2MTQ3NCwtOTg1NjMyODY3LDI2NDE0NzY0OSwtMTg4Nj
+Y5MzA2MiwxOTc3Mzk2MTI2LC0xOTk5NjgyMTUsMTE0MTg2MTUw
+OCwtMTI3MDQwNjAzOCwtNjUyNjM1MDE0XX0=
 -->
