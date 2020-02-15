@@ -47,16 +47,14 @@ product:
 
 
 
-> 1. 警告
+> 警告
 > 
 > 本剤の使用は、本剤の適応症の治療に精通している医師のもとで行うこと。
 
 
-
-> {:start="2"}
-> 1. 禁忌（次の患者には投与しないこと）
-> 	 2. 妊婦又は妊娠している可能性のある女性 [9.5 参照]
-> 	 3. 本剤の成分に対し過敏症の既往歴のある患者
+> 禁忌（次の患者には投与しないこと）
+> 	 1. 妊婦又は妊娠している可能性のある女性 [9.5 参照]
+> 	 2. 本剤の成分に対し過敏症の既往歴のある患者
 
 
 
@@ -75,7 +73,7 @@ product:
 通常、成人にはニンテダニブとして1回150mgを1日2回、朝・夕食後に経口投与する。なお、患者の状態によりニンテダニブとして1回100mgの1日2回投与へ減量する。
 
 
-## 6. ＜用法・用量に関連する注意＞
+## ＜用法・用量に関連する注意＞
 
 1. 下痢、悪心、嘔吐等の副作用が認められた場合は、対症療法などの適切な処置を行ったうえ、本剤の治療が可能な状態に回復するまでの間、減量又は治療の中断を検討すること。治療の中断後再開する場合は1回100mg、1日2回から再開することを検討すること。患者の状態に応じて1回150mg、1日2回へ増量することができる。再投与又は増量する場合は慎重に投与し、投与後は患者の状態を十分に観察すること。
 2. AST 又はALT が基準値上限の3倍を超えた場合は、本剤の減量又は治療の中断を行い、十分な経過観察を行うこと。治療を中断し投与を再開する場合には、AST 又はALT が投与前の状態に回復した後、1回100mg、1日2回から投与することとし、患者の状態に応じて1回150mg、1日2回へ増量することが
@@ -95,7 +93,7 @@ product:
 | 有効成分 | 1カプセル中 ニンテダニブエタンスルホン酸塩 120.4mg（ニンテダニブとして100mg） | 1カプセル中 ニンテダニブエタンスルホン酸塩 180.6mg（ニンテダニブとして150mg） |
 | 添加剤 | 中鎖脂肪酸トリグリセリド、ハードファット、大豆レシチン、ゼラチン、グリセリン、酸化チタン、三二酸化鉄、黄色三二酸化鉄 |
 
-3.2 製剤の性状
+## 製剤の性状
 
 | 販売名 | オフェブカプセル100mg | オフェブカプセル150mg |
 | --- | --- | --- |
@@ -230,9 +228,9 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwNDQxNTI0LDEzMzI4MDYzNzAsNzAwNz
-I0MTcxLC0zMjM2NTczMjMsMjI1NjY2MTc2LDEyMDI0NjE0NzQs
-LTk4NTYzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3Nz
-M5NjEyNiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYw
-MzgsLTY1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbMTU1OTU1OTc0NiwxMzMyODA2MzcwLDcwMD
+cyNDE3MSwtMzIzNjU3MzIzLDIyNTY2NjE3NiwxMjAyNDYxNDc0
+LC05ODU2MzI4NjcsMjY0MTQ3NjQ5LC0xODg2NjkzMDYyLDE5Nz
+czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
+MDM4LC02NTI2MzUwMTRdfQ==
 -->
