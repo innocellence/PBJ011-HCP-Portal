@@ -1,7 +1,7 @@
 ---
 # base
 layout: B
-title: Product/Brand Name® for Condition
+title: OFEV® for IPF
 
 # seo
 author: 日本ベーリンガーインゲルハイム株式会社
@@ -97,5 +97,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbMTI5MTAxNzk3OCwtNjUyNjM1MDE0XX0=
 -->
