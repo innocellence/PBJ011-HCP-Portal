@@ -51,8 +51,9 @@ product:
  
 > 禁忌（次の患者には投与しないこと）
 > 
-> 1. 妊婦又は妊娠している可能性のある女性［9.5 参照］
-> 2. 本剤
+> {:start="2"}
+> 2. 妊婦又は妊娠している可能性のある女性［9.5 参照］
+> 3. 本剤
 
 の成分に対し過敏症の既往歴のある患者
 
@@ -90,6 +91,7 @@ product:
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzM5NjEyNiwtMTk5OTY4MjE1LDExND
-E4NjE1MDgsLTEyNzA0MDYwMzgsLTY1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbMTU3MzEwNzM2NSwxOTc3Mzk2MTI2LC0xOT
+k5NjgyMTUsMTE0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNjUyNjM1
+MDE0XX0=
 -->
