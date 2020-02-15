@@ -138,6 +138,13 @@ product:
 
 1. 併用注意（併用に注意すること）
 
+| 薬剤名等 | 臨床症状・措置方法 | 機序・危険因子 |
+| --- | --- | --- |
+| P-糖蛋白阻害剤エリスロマイシンシクロスポリン等［16.7.1 参照］ | P-糖蛋白阻害剤との併用時は観察を十分に行い、異常が認められた場合は投与の中断、減量又は中止等の適切な処置を行うこと。 | P-糖蛋白の阻害により本剤の曝露が上昇する可能性がある。ケトコナゾールとの併用によりニンテダニブのAUCが約1.6 倍、Cmax
+が約1.8 倍に上昇した。 |
+| P-糖蛋白誘導剤リファンピシンカルバマゼピンフェニトインセイヨウオトギリソウ（ St. John's Wort、セント・ジョーンズ・ワート）含有食品等［16.7.2 参照］ | P-糖蛋白誘導剤との併用により、本剤の作用が減弱する可能性がある。P-糖蛋白誘導作用のない又は少ない薬剤の選択を検討すること。 | P-糖蛋白の誘導により本剤の曝露が低下する可能性がある。リファンピシンとの併用によりニンテダニブのAUCが約50％、Cmax
+が約60％まで減少した。 |
+
 # Downloads
 
 [Link](url)
@@ -152,7 +159,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1OTQxMDQwLDEyMDI0NjE0NzQsLTk4NT
+eyJoaXN0b3J5IjpbMjAxODIyMjQyLDEyMDI0NjE0NzQsLTk4NT
 YzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3NzM5NjEy
 NiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYwMzgsLT
 Y1MjYzNTAxNF19
