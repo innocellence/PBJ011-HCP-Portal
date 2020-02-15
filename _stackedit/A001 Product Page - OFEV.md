@@ -1,7 +1,7 @@
 ---
 # base
 layout: A
-title: OFEV®
+title: Product/Brand NameOFEV®
 
 # seo
 author: 日本ベーリンガーインゲルハイム株式会社
@@ -14,14 +14,11 @@ date: YYYY-MM-DD
 brand-banner: OFEV
 breadcrumb:
   - level-1: 
-    label: Page Name
-    url: URL
+    label: Home
+    url: #
   - level-2: 
-    label: Page Name
-    url: URL
-  - level-3: 
-    label: Page Name
-    url: URL
+    label: OFEV®
+    url: #
 
 # indications
 indication-count: 3
@@ -77,5 +74,5 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMTk1OTk0XX0=
+eyJoaXN0b3J5IjpbLTgyMTcxNjYxMF19
 -->
