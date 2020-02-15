@@ -10,7 +10,7 @@ exclude: true
     <h1>Page Index</h1>
     <ul class="list--index">
       {% for file in files %}
-      <li><a href="{{ file.url }}"><span>{{ file.title }}</span><br><small>Template: {{ file.layout }}</small><br><small>Filename: {{ file.name }}</small></a></li>
+      <li><a href="{{ file.url | prepend: site.baseurl }}"><span>{{ file.title }}</span><br><small>Template: {{ file.layout }}</small><br><small>Filename: {{ file.name }}</small></a></li>
       {% endfor %}
     </ul>
   </div>

@@ -12,7 +12,7 @@ google_analytics:
 
 #URL Prefixing
 siteurl: 
-baseurl:
+baseurl: /PBJ011-HCP-Portal
 
 #Permalinks
 permalink: none
