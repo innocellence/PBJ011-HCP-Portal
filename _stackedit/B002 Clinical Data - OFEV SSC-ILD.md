@@ -20,7 +20,7 @@ breadcrumb:
     label: OFEV®
     url: #
   - level-3: 
-    label: OFEV® for IPF
+    label: OFEV® for SSC-ILD
     url: #
 
 # content 
@@ -97,5 +97,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODQ1NzY1M119
+eyJoaXN0b3J5IjpbLTE0MzAyMTc5XX0=
 -->
