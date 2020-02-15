@@ -114,7 +114,7 @@ product:
  2. 出血性素因のある患者、抗凝固剤治療を行っている患者。
 	 <br> 出血リスクを助長する可能性がある。
  3. 肝機能障害患者
-	{:class="reset-2"}
+		{:class="reset-2"}
 	1. 中等度及び高度の肝機能障害（Child Pugh B、C）のある患者
 		<br> 治療上やむを得ないと判断される場合を除き、使用は避けること。使用する場合は、肝機能検査をより頻回に行うなど、慎重に患者の状態を観察すること。肝機能障害が悪化するおそれがある。また、中等度の肝機能障害（Child Pugh B）のある患者では血中濃度が上昇する。高度の肝機能障害（Child Pugh C）のある患者を対象とした有効性及び安全性を指標とした臨床試験は実施していない。[7.2、8.1、16.6.1参照]
 	2. 軽度の肝機能障害（Child Pugh A）のある患者
@@ -152,7 +152,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNzM5MTYwLDEyMDI0NjE0NzQsLTk4NT
+eyJoaXN0b3J5IjpbNDI1OTQxMDQwLDEyMDI0NjE0NzQsLTk4NT
 YzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3NzM5NjEy
 NiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYwMzgsLT
 Y1MjYzNTAxNF19
