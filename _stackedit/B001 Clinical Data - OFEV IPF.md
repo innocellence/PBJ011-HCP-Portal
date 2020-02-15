@@ -60,18 +60,6 @@ product:
 
 
 
-
-1. 警告
-
-本剤の使用は、本剤の適応症の治療に精通している医師のもとで行うこと。
-
-{:start="2"}
-1. 禁忌（次の患者には投与しないこと）
-	 2. 妊婦又は妊娠している可能性のある女性[［9.5 参照］](url)
-	 3. 本剤の成分に対し過敏症の既往歴のある患者
-
-
-
 ## 【効能又は効果】
 
 特発性肺繊維症
@@ -95,6 +83,9 @@ product:
 
 # 重要な基本的注意
 
+1. AST、ALT、ビリルビン等の上昇を伴う肝機能障害があらわれることがあるので、本剤投与開始前及び投与中は	   定期的に検査を行い、患者の状態を十分に観察すること。[[7.2、11.1.2参照]](#)
+2. 血小板減少があらわれ、出血に至った重篤な症例も報告されているため、本剤投与中は定期的に血液検査を行	   うなど、観察を十分に行うこと。[11.1.4参照]
+3. 創傷治癒を遅らせる可能性があるので、手術時は投与を中断することが望ましい。手術後の投与再開は患者の	   状態に応じて判断すること。
 
 
 # Downloads
@@ -111,7 +102,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0Nzg2MTcwLC0xODg2NjkzMDYyLDE5Nz
+eyJoaXN0b3J5IjpbMjYzMjM4MDgxLC0xODg2NjkzMDYyLDE5Nz
 czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
 MDM4LC02NTI2MzUwMTRdfQ==
 -->
