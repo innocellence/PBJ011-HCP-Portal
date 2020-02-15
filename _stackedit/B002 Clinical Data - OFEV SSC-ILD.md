@@ -1,7 +1,7 @@
 ---
 # base
 layout: B
-title: OFEV® for SSC-ILD
+title: オフェブ® for SSC-ILD
 
 # seo
 author: 日本ベーリンガーインゲルハイム株式会社
@@ -17,10 +17,10 @@ breadcrumb:
     label: Home
     url: #
   - level-2: 
-    label: OFEV®
+    label: オフェブ®
     url: #
   - level-3: 
-    label: OFEV® for SSC-ILD
+    label: オフェブ® for SSC-ILD
     url: #
 
 # content 
@@ -30,7 +30,7 @@ introduction: The product has been used to treat condition X since date Y. Lorem
 product:
   - name: 
     label: name
-    value: Product Name®
+    value: オフェブ®
   - type: 
     label: type
     value: Prescription Drug
@@ -97,5 +97,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAyMTc5XX0=
+eyJoaXN0b3J5IjpbODA5NTk2NjFdfQ==
 -->
