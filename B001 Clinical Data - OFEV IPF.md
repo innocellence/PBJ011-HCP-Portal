@@ -164,7 +164,7 @@ product:
 	6. **間質性肺炎**（頻度不明）  
 		本剤の癌を対象とした臨床試験で間質性肺炎がみられており、胸部画像検査や呼吸機能検査で急激な悪化等の薬剤性の間質性肺炎の徴候がみられる場合は、本剤の投与を中止し、適切な処置を行うこと。
 
-14.1.** <![endif]>**（2）その他の副作用**
+14.1. （2）その他の副作用
 
 
 
@@ -186,8 +186,8 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTU5MzcwNCwtMzIzNjU3MzIzLDIyNT
-Y2NjE3NiwxMjAyNDYxNDc0LC05ODU2MzI4NjcsMjY0MTQ3NjQ5
-LC0xODg2NjkzMDYyLDE5NzczOTYxMjYsLTE5OTk2ODIxNSwxMT
-QxODYxNTA4LC0xMjcwNDA2MDM4LC02NTI2MzUwMTRdfQ==
+eyJoaXN0b3J5IjpbLTE1MzAyMDgyMDMsLTMyMzY1NzMyMywyMj
+U2NjYxNzYsMTIwMjQ2MTQ3NCwtOTg1NjMyODY3LDI2NDE0NzY0
+OSwtMTg4NjY5MzA2MiwxOTc3Mzk2MTI2LC0xOTk5NjgyMTUsMT
+E0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNjUyNjM1MDE0XX0=
 -->
