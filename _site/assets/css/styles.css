@@ -1,7 +1,47 @@
 /*
 This file is used to contain all vendor imports.
 */
-.katex { font: normal 1.21em KaTeX_Main,Times New Roman,serif; line-height: 1.2; text-indent: 0; text-rendering: auto; }
+@font-face { font-family: KaTeX_AMS; src: url(https://stackedit.io/static/fonts/KaTeX_AMS-Regular.e78e28b.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_AMS-Regular.7f06b4e.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_AMS-Regular.aaf4eee.ttf) format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Caligraphic; src: url(https://stackedit.io/static/fonts/KaTeX_Caligraphic-Bold.4ec58be.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Caligraphic-Bold.1e802ca.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Caligraphic-Bold.021dd4d.ttf) format("truetype"); font-weight: 700; font-style: normal; }
+
+@font-face { font-family: KaTeX_Caligraphic; src: url(https://stackedit.io/static/fonts/KaTeX_Caligraphic-Regular.7edb53b.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Caligraphic-Regular.d3b46c3.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Caligraphic-Regular.d49f2d5.ttf) format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Fraktur; src: url(https://stackedit.io/static/fonts/KaTeX_Fraktur-Bold.d5b59ec.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Fraktur-Bold.c4c8cab.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Fraktur-Bold.a31e7cb.ttf) format("truetype"); font-weight: 700; font-style: normal; }
+
+@font-face { font-family: KaTeX_Fraktur; src: url(https://stackedit.io/static/fonts/KaTeX_Fraktur-Regular.32a5339.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Fraktur-Regular.b7d9c46.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Fraktur-Regular.a48dad4.ttf) format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Main; src: url(https://stackedit.io/static/fonts/KaTeX_Main-Bold.8e1e01c.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Main-Bold.22086eb.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Main-Bold.9ceff51.ttf) format("truetype"); font-weight: 700; font-style: normal; }
+
+@font-face { font-family: KaTeX_Main; src: url(https://stackedit.io/static/fonts/KaTeX_Main-BoldItalic.284a17f.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Main-BoldItalic.4c57dbc.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Main-BoldItalic.e8b44b9.ttf) format("truetype"); font-weight: 700; font-style: italic; }
+
+@font-face { font-family: KaTeX_Main; src: url(https://stackedit.io/static/fonts/KaTeX_Main-Italic.e533d5a.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Main-Italic.99be0e1.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Main-Italic.29c8639.ttf) format("truetype"); font-weight: 400; font-style: italic; }
+
+@font-face { font-family: KaTeX_Main; src: url(https://stackedit.io/static/fonts/KaTeX_Main-Regular.5c734d7.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Main-Regular.b741441.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Main-Regular.5c94aef.ttf) format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Math; src: url(https://stackedit.io/static/fonts/KaTeX_Math-BoldItalic.d747bd1.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Math-BoldItalic.b13731e.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Math-BoldItalic.9a2834a.ttf) format("truetype"); font-weight: 700; font-style: italic; }
+
+@font-face { font-family: KaTeX_Math; src: url(https://stackedit.io/static/fonts/KaTeX_Math-Italic.4ad08b8.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Math-Italic.f030390.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Math-Italic.291e76b.ttf) format("truetype"); font-weight: 400; font-style: italic; }
+
+@font-face { font-family: KaTeX_SansSerif; src: url(https://stackedit.io/static/fonts/KaTeX_SansSerif-Bold.6e0830b.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_SansSerif-Bold.3fb4195.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_SansSerif-Bold.7dc027c.ttf) format("truetype"); font-weight: 700; font-style: normal; }
+
+@font-face { font-family: KaTeX_SansSerif; src: url(https://stackedit.io/static/fonts/KaTeX_SansSerif-Italic.fba01c9.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_SansSerif-Italic.727a9b0.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_SansSerif-Italic.4059868.ttf) format("truetype"); font-weight: 400; font-style: italic; }
+
+@font-face { font-family: KaTeX_SansSerif; src: url(https://stackedit.io/static/fonts/KaTeX_SansSerif-Regular.d929cd6.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_SansSerif-Regular.2555754.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_SansSerif-Regular.5c58d16.ttf) format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Script; src: url(https://stackedit.io/static/fonts/KaTeX_Script-Regular.755e249.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Script-Regular.d524c9a.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Script-Regular.d12ea9e.ttf) format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Size1; src: url(https://stackedit.io/static/fonts/KaTeX_Size1-Regular.048c39c.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Size1-Regular.08b5f00.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Size1-Regular.7342d45.ttf) format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Size2; src: url(https://stackedit.io/static/fonts/KaTeX_Size2-Regular.81d6b8d.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Size2-Regular.af24b0e.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Size2-Regular.eb130dc.ttf) format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Size3; src: url(https://stackedit.io/static/fonts/KaTeX_Size3-Regular.b311ca0.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Size3-Regular.0d89264.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Size3-Regular.7e02a40.ttf) format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Size4; src: url(https://stackedit.io/static/fonts/KaTeX_Size4-Regular.6a3255d.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Size4-Regular.68895bb.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Size4-Regular.ad76725.ttf) format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: KaTeX_Typewriter; src: url(https://stackedit.io/static/fonts/KaTeX_Typewriter-Regular.6cc31ea.woff2) format("woff2"), url(https://stackedit.io/static/fonts/KaTeX_Typewriter-Regular.3fe216d.woff) format("woff"), url(https://stackedit.io/static/fonts/KaTeX_Typewriter-Regular.2570235.ttf) format("truetype"); font-weight: 400; font-style: normal; }
+
+.katex { font: normal 1.21em KaTeX_Main, Times New Roman, serif; line-height: 1.2; text-indent: 0; text-rendering: auto; }
 
 .katex * { -ms-high-contrast-adjust: none !important; }
 
@@ -433,17 +473,17 @@ This file is used to contain all vendor imports.
 
 .katex-display.fleqn > .katex { text-align: left; }
 
-@font-face { font-family: Lato; font-style: normal; font-weight: 400; src: url(/static/fonts/lato-normal.27bd77b.woff) format("woff"); }
+@font-face { font-family: Lato; font-style: normal; font-weight: 400; src: url(https://stackedit.io/static/fonts/lato-normal.27bd77b.woff) format("woff"); }
 
-@font-face { font-family: Lato; font-style: italic; font-weight: 400; src: url(/static/fonts/lato-normal-italic.f28f2d6.woff) format("woff"); }
+@font-face { font-family: Lato; font-style: italic; font-weight: 400; src: url(https://stackedit.io/static/fonts/lato-normal-italic.f28f2d6.woff) format("woff"); }
 
-@font-face { font-family: Lato; font-style: normal; font-weight: 600; src: url(/static/fonts/lato-black.f80bda6.woff) format("woff"); }
+@font-face { font-family: Lato; font-style: normal; font-weight: 600; src: url(https://stackedit.io/static/fonts/lato-black.f80bda6.woff) format("woff"); }
 
-@font-face { font-family: Lato; font-style: italic; font-weight: 600; src: url(/static/fonts/lato-black-italic.798eafd.woff) format("woff"); }
+@font-face { font-family: Lato; font-style: italic; font-weight: 600; src: url(https://stackedit.io/static/fonts/lato-black-italic.798eafd.woff) format("woff"); }
 
-@font-face { font-family: Roboto Mono; font-style: normal; font-weight: 400; src: url(/static/fonts/RobotoMono-Regular.0b6a547.woff) format("woff"); }
+@font-face { font-family: Roboto Mono; font-style: normal; font-weight: 400; src: url(https://stackedit.io/static/fonts/RobotoMono-Regular.0b6a547.woff) format("woff"); }
 
-@font-face { font-family: Roboto Mono; font-style: normal; font-weight: 600; src: url(/static/fonts/RobotoMono-Bold.819f3b2.woff) format("woff"); }
+@font-face { font-family: Roboto Mono; font-style: normal; font-weight: 600; src: url(https://stackedit.io/static/fonts/RobotoMono-Bold.819f3b2.woff) format("woff"); }
 
 .prism *, .token.pre.gfm * { font-weight: inherit !important; }
 
@@ -475,7 +515,7 @@ This file is used to contain all vendor imports.
 
 .app--dark .mermaid svg { color: rgba(255, 255, 255, 0.75); }
 
-.mermaid svg * { font-family: Lato,Helvetica Neue,Helvetica,sans-serif; }
+.mermaid svg * { font-family: Lato, Helvetica Neue, Helvetica, sans-serif; }
 
 .mermaid .mermaid .label { color: #333; }
 
@@ -493,7 +533,7 @@ This file is used to contain all vendor imports.
 
 .mermaid .cluster text { fill: #333; }
 
-.mermaid div.mermaidTooltip { position: absolute; text-align: center; max-width: 200px; padding: 2px; font-family: trebuchet ms,verdana,arial; font-size: 12px; background: #eaf2fb; border: 1px solid #26a; border-radius: 2px; pointer-events: none; z-index: 100; }
+.mermaid div.mermaidTooltip { position: absolute; text-align: center; max-width: 200px; padding: 2px; font-family: trebuchet ms, verdana, arial; font-size: 12px; background: #eaf2fb; border: 1px solid #26a; border-radius: 2px; pointer-events: none; z-index: 100; }
 
 .mermaid .actor { stroke: #999; fill: #eee; }
 
@@ -519,7 +559,7 @@ This file is used to contain all vendor imports.
 
 .mermaid .note { stroke: #770; fill: #ffa; }
 
-.mermaid .noteText { fill: #000; stroke: none; font-family: trebuchet ms,verdana,arial; font-size: 14px; }
+.mermaid .noteText { fill: #000; stroke: none; font-family: trebuchet ms, verdana, arial; font-size: 14px; }
 
 .mermaid .section { stroke: none; opacity: .2; }
 
@@ -569,7 +609,7 @@ This file is used to contain all vendor imports.
 
 .mermaid .titleText { text-anchor: middle; font-size: 18px; fill: #333; }
 
-.mermaid g.classGroup text { fill: #999; stroke: none; font-family: trebuchet ms,verdana,arial; font-size: 10px; }
+.mermaid g.classGroup text { fill: #999; stroke: none; font-family: trebuchet ms, verdana, arial; font-size: 10px; }
 
 .mermaid g.classGroup rect { fill: #eee; stroke: #999; }
 
@@ -605,7 +645,7 @@ This file is used to contain all vendor imports.
 
 .app--dark .mermaid .cluster text { fill: #f9fffe; }
 
-.app--dark .mermaid div.mermaidTooltip { position: absolute; text-align: center; max-width: 200px; padding: 2px; font-family: trebuchet ms,verdana,arial; font-size: 12px; background: #6d6d65; border: 1px solid rgba(255, 255, 255, 0.25); border-radius: 2px; pointer-events: none; z-index: 100; }
+.app--dark .mermaid div.mermaidTooltip { position: absolute; text-align: center; max-width: 200px; padding: 2px; font-family: trebuchet ms, verdana, arial; font-size: 12px; background: #6d6d65; border: 1px solid rgba(255, 255, 255, 0.25); border-radius: 2px; pointer-events: none; z-index: 100; }
 
 .app--dark .mermaid .actor { stroke: #81b1db; fill: #bdd5ea; }
 
@@ -631,7 +671,7 @@ This file is used to contain all vendor imports.
 
 .app--dark .mermaid .note { stroke: rgba(255, 255, 255, 0.25); fill: #fff5ad; }
 
-.app--dark .mermaid .noteText { fill: #000; stroke: none; font-family: trebuchet ms,verdana,arial; font-size: 14px; }
+.app--dark .mermaid .noteText { fill: #000; stroke: none; font-family: trebuchet ms, verdana, arial; font-size: 14px; }
 
 .app--dark .mermaid .section { stroke: none; opacity: .2; }
 
@@ -683,7 +723,7 @@ This file is used to contain all vendor imports.
 
 .app--dark .mermaid .titleText { text-anchor: middle; font-size: 18px; fill: #323d47; }
 
-.app--dark .mermaid g.classGroup text { fill: purple; stroke: none; font-family: trebuchet ms,verdana,arial; font-size: 10px; }
+.app--dark .mermaid g.classGroup text { fill: purple; stroke: none; font-family: trebuchet ms, verdana, arial; font-size: 10px; }
 
 .app--dark .mermaid g.classGroup rect { fill: #bdd5ea; stroke: purple; }
 
@@ -720,7 +760,7 @@ hr { box-sizing: content-box; height: 0; overflow: visible; }
 
 main { display: block; }
 
-pre { font-family: monospace,monospace; font-size: 1em; }
+pre { font-family: monospace, monospace; font-size: 1em; }
 
 a { background-color: transparent; -webkit-text-decoration-skip: objects; }
 
@@ -728,7 +768,7 @@ abbr[title] { border-bottom: none; text-decoration: underline; text-decoration: 
 
 b, strong { font-weight: inherit; font-weight: bolder; }
 
-code, kbd, samp { font-family: monospace,monospace; font-size: 1em; }
+code, kbd, samp { font-family: monospace, monospace; font-size: 1em; }
 
 dfn { font-style: italic; }
 
@@ -792,7 +832,7 @@ canvas { display: inline-block; }
 
 [hidden], template { display: none; }
 
-body, html { color: rgba(0, 0, 0, 0.75); font-size: 16px; font-family: Lato,Helvetica Neue,Helvetica,sans-serif; font-variant-ligatures: common-ligatures; line-height: 1.67; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body, html { color: rgba(0, 0, 0, 0.75); font-size: 16px; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-variant-ligatures: common-ligatures; line-height: 1.67; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .app--dark .layout__panel--editor, .app--dark .layout__panel--preview { color: rgba(255, 255, 255, 0.75); }
 
@@ -810,7 +850,7 @@ a { color: #0c93e4; text-decoration: underline; text-decoration-skip: ink; }
 
 a:focus, a:hover { text-decoration: none; }
 
-code, pre, samp { font-family: Roboto Mono,Lucida Sans Typewriter,Lucida Console,monaco,Courrier,monospace; font-size: .85em; }
+code, pre, samp { font-family: Roboto Mono, Lucida Sans Typewriter, Lucida Console, monaco, Courrier, monospace; font-size: .85em; }
 
 code *, pre *, samp * { font-size: inherit; }
 
@@ -836,7 +876,7 @@ td { border-top: 1px solid #dcdcdc; }
 
 mark { background-color: #f8f840; }
 
-kbd { font-family: Lato,Helvetica Neue,Helvetica,sans-serif; background-color: #fff; border: 1px solid rgba(63, 63, 63, 0.25); border-radius: 3px; box-shadow: 0 1px 0 rgba(63, 63, 63, 0.25); color: #333; display: inline-block; font-size: .8em; margin: 0 .1em; padding: .1em .6em; white-space: nowrap; }
+kbd { font-family: Lato, Helvetica Neue, Helvetica, sans-serif; background-color: #fff; border: 1px solid rgba(63, 63, 63, 0.25); border-radius: 3px; box-shadow: 0 1px 0 rgba(63, 63, 63, 0.25); color: #333; display: inline-block; font-size: .8em; margin: 0 .1em; padding: .1em .6em; white-space: nowrap; }
 
 abbr[title] { border-bottom: 1px dotted #777; cursor: help; }
 
