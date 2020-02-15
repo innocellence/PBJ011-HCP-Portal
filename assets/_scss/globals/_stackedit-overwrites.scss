@@ -147,60 +147,73 @@ blockquote {
 }
     
 
+// Nested Lists
 ol {
   counter-reset: list;                
   list-style-type: none;
-
-  li {
-    counter-increment: list;   
-
-    &:before {
-      content: counters(list, ".") ".";
-    }
-  }
-  
-  li {
-    padding-left: 2em;
-  }
-  li:before {
-    margin-left: -3em;
-    width: 3em;
-    display: inline-block;
-  }
-
+  padding-left: 50px;
+}
+ol ol {
+  padding-left: 65px;
+}
+ol ol ol {
+  padding-left: 80px;
 }
 
-ol ol > li:before {
+li {
+  counter-increment: list;   
+  margin-top: .25em;
+}
+
+li:before {
+  color: grey;
+  display: inline-block;
+}
+
+ol li:before {
   content: "(" counters(list, ".") ")";
+  width: 40px;
+  margin-left: -40px;
+}
+ol ol > li:before {
+  content: counters(list, ".") ".";
+  width: 45px;
+  margin-left: -45px;
+}
+ol ol ol > li:before {
+  content: counters(list, ".") ".";
+  width: 60px;
+  margin-left: -60px;
 }
 
-//ol {
-//  counter-reset: section;
-//  padding-inline-start: 3em; 
-//  
-//  > li {
-//    list-style: none;
-//    position: relative;
-//  }
-//  > li:before {
-//    counter-increment: section;
-//    content: counter(section, decimal) ". ";
-//    position: absolute;
-//    left: -2em;
-//  }
-//}
-//    
-//ol ol {
-//  padding-inline-start: 4em; 
-//
-//  > li {
-//    list-style: none;
-//    position: relative;
-//  }
-//  > li:before {
-//    counter-increment: section;
-//    content: "(" counters(section, ".") ") ";
-//    position: absolute;
-//    left: -3em;
-//  }
-//}
+/* Level 2 Reset */
+ol ol.reset-2 {
+  padding-left: 55px;
+}
+ol.reset-2 {
+  counter-reset: two;    
+}
+ol.reset-2 > li {
+  counter-increment: two; 
+}
+ol.reset-2 > li:before {
+  content: "(" counters(two, ".") ")";
+  width: 35px;
+  margin-left: -35px;
+}
+
+/* Level 3 Reset */
+ol ol.reset-3 {
+  padding-left: 55px;
+}
+ol ol.reset-3 {
+  counter-reset: three;    
+}
+ol ol.reset-3 > li {
+  counter-increment: three; 
+}
+ol ol.reset-3 > li:before {
+  content: "(" counters(three, ".") ")";
+  width: 40px;
+  margin-left: -40px;
+}

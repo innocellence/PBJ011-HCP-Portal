@@ -70,6 +70,16 @@ function styleNestedLists() {
       var val = parseFloat($(this).attr("start")) -1;
       $(this).css('counter-increment','list '+ val);
   });
+
+  $('ol.reset-2[start]').each(function() {
+      var val = parseFloat($(this).attr("start")) -1;
+      $(this).css('counter-increment','two '+ val);
+  });
+
+  $('ol.reset-3[start]').each(function() {
+      var val = parseFloat($(this).attr("start")) -1;
+      $(this).css('counter-increment','three '+ val);
+  });
 }
 
 
