@@ -102,8 +102,11 @@ h1 {
   }
 }
  
-h2 {
-  margin-bottom: 1em;
+h2, h3, h4, h5, h6 {
+  font-size: 1.2em;
+  margin-bottom: .8em;
+  font-weight: bold;
+  margin-top: 2em;
   
   &:after {
     display: none;
