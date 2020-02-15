@@ -1,0 +1,39 @@
+title: 
+keywords: 
+author: 
+description: 
+
+#source: source
+#destination: dist
+port: 5555
+
+#Google Analytics ID, auto populated to all pages
+google_analytics:
+
+#URL Prefixing
+siteurl: 
+baseurl:
+
+#Permalinks
+permalink: none
+
+#Set Syntax Highlighter
+#highlighter: rouge
+
+#encoding
+encoding: UTF-8
+
+#sass import directory
+sass:
+  sass_dir: assets/_scss
+#  style: compressed
+        
+#Default Front Matter
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      lang: en

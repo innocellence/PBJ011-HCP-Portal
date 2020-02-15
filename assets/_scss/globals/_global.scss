@@ -1,0 +1,373 @@
+///////// 
+// Base Styles
+///////// 
+
+html, 
+body {  
+  position: relative;
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  overflow-x: hidden;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  background-color: $background;
+  color: $base-font-color;
+  -webkit-font-feature-settings: "kern" 1,"liga" 1,"frac" 1,"pnum" 1;
+     -moz-font-feature-settings: "kern" 1,"liga" 1,"frac" 1,"pnum" 1;
+      -ms-font-feature-settings: "kern" 1,"liga" 1,"frac" 1,"pnum" 1;
+          font-feature-settings: "kern" 1,"liga" 1,"frac" 1,"pnum" 1;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+
+///////// 
+// Links
+///////// 
+
+// Set global color
+a {
+  color: $col_primary;
+  transition: color $base-duration $base-timing;
+  text-decoration: none;
+  
+  &:hover {
+    color: $black;
+  }
+}
+// Set External Link icon
+a.ext {
+  &:after {
+    content: '↗';
+//    font-size: $typo_hummingbird;
+//    vertical-align: text-top;
+  }
+}
+
+
+///////// 
+// Post Content
+///////// 
+
+// Sewt the first item in post content
+#postContent > *:first-child {
+  margin-top: 0;
+}
+#postContent > p:first-child {
+  font-size: $typo_crow;
+}
+// Set post content a ix
+#postContent a {
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
+// Section headings
+#postContent > h1 {
+  margin-top: 4rem;
+  border-bottom: 1px solid;
+  padding-bottom: .5rem;
+  margin-bottom: 2rem;
+  border-width: 2px;
+  
+  &:before {
+    content: '#';
+    font-size: $typo_crow;
+    margin-left: -1.5rem;
+    margin-right: .5rem;
+    width: 1rem;
+    color: $black;
+    opacity: .1;
+    
+    @media only screen and (max-width: $tablet-screen) {
+      display: none;
+    }
+  }
+}
+
+// Hide TOC
+@media only screen and (max-width: $tablet-screen) {
+  #postNav {
+    display: none;
+  }
+}
+
+
+///////// 
+// Post Meta
+///////// 
+
+// Share this
+.share_this {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: $margin-huge 0;
+  padding-top: $margin-huge;
+  border-top: 2px solid $black;
+  line-height: $heading-line-height;
+  
+  .header {
+    margin-right: $margin-small;
+    margin-bottom: 0;
+  }
+  a {
+    position: relative;
+    margin-right: $margin-small;
+  }
+}
+
+// Comment
+#disqus_thread {
+  display: block;
+  width: 100%;
+}
+
+
+///////// 
+// Typed
+///////// 
+
+//Typed 
+#typed {
+  white-space: normal;
+  
+  &:after {
+    display: none;
+  }
+  &:hover {
+    &:after {
+      background: none;
+    }
+  }
+}
+
+///////// 
+// Typography
+///////// 
+
+//Headings
+.header, h1, h2, h3, h4, h5, h6 {
+  font-family: $base-font-family;
+  color: $heading-font-color;
+  line-height: $heading-line-height;
+  font-weight: 700;
+  margin-bottom: $margin;
+}
+h5, h6 {
+  font-weight: 600;
+}
+
+// Bold
+b, strong {
+  font-weight: 700;
+}
+
+//Italic
+em {
+//  background: transparentize($background, .5);
+//  mix-blend-mode: multiply;
+  font-style: normal;
+}
+
+//Paragraph
+p {
+  line-height: $base-line-height;
+}
+
+
+///////// 
+// Font Sizes
+///////// 
+
+// Default Sizes
+.typo_ostrich {
+  font-size: $typo_ostrich !important;
+}
+.typo_albatros {
+  font-size: $typo_albatros !important;
+}
+.typo_eagle {
+  font-size: $typo_eagle !important;
+}
+.typo_hawk {
+  font-size: $typo_hawk !important;
+}
+.typo_crow {
+  font-size: $typo_crow !important;
+}
+.typo_sparrow {
+  font-size: $typo_sparrow !important;
+}
+.typo_hummingbird {
+  font-size: $typo_hummingbird !important;
+}
+// Tablet Sizes
+@media only screen and (max-width: $tablet-screen) {
+  .typo_ostrich {
+    font-size: $t_typo_ostrich !important;
+  }
+  .typo_albatros {
+    font-size: $t_typo_albatros !important;
+  }
+  .typo_eagle {
+    font-size: $t_typo_eagle !important;
+  }
+  .typo_hawk {
+    font-size: $t_typo_hawk !important;
+  }
+  .typo_crow {
+    font-size: $t_typo_crow !important;
+  }
+  .typo_sparrow {
+    font-size: $t_typo_sparrow !important;
+  }
+  .typo_hummingbird {
+    font-size: $t_typo_hummingbird !important;
+  }
+}
+// Small Sizes
+@media only screen and (max-width: $mobile-screen) {
+  .typo_ostrich {
+    font-size: $m_typo_ostrich !important;
+  }
+  .typo_albatros {
+    font-size: $m_typo_albatros !important;
+  }
+  .typo_eagle {
+    font-size: $m_typo_eagle !important;
+  }
+  .typo_hawk {
+    font-size: $m_typo_hawk !important;
+  }
+  .typo_crow {
+    font-size: $m_typo_crow !important;
+  }
+  .typo_sparrow {
+    font-size: $m_typo_sparrow !important;
+  }
+  .typo_hummingbird {
+    font-size: $m_typo_hummingbird !important;
+  }
+}
+
+
+///////// 
+// Code
+///////// 
+
+code,
+pre {
+  font-family: $code-font;
+  color: $code-font-color;
+  font-size: $base-font-size - 2px;
+  background: $code-color;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+pre {
+  padding: $margin;
+}
+figure {
+  max-width: 100%
+}
+.highlighter-rouge {
+  font-size: $typo_hummingbird;
+  padding: .2rem .3rem;
+}
+.highlight {
+  margin: 0;
+  margin: $margin-large 0;   
+  code:before {
+    content: attr(data-lang);
+    display: block;
+    background: rgba(0,0,0,.8);
+    color: $white;
+    font-weight: bold;
+    margin-top: -$margin;
+    margin-left: -$margin;
+    margin-right: -$margin;
+    margin-bottom: $margin;
+    padding: $margin-small $margin;
+    font-family: $base-font-family;
+    text-transform: uppercase;
+    font-size: $typo_hummingbird;
+  }
+}
+
+// Codepen
+.cp_embed_wrapper {
+  margin: $margin-large 0;
+}
+
+
+///////// 
+// Images
+///////// 
+
+img {
+  max-width: 100%;
+}
+p img {
+  box-shadow: 0 0 0 1px $bleach;
+  margin: $margin-large 0 $margin-small 0;
+}
+
+
+///////// 
+// Tags
+///////// 
+
+.tags {
+  margin-bottom: $margin-small;
+  .item {
+    display: inline-block;
+    color: $blue;
+    margin-right: $base-padding;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    line-height: 1;
+    transition: all $base-duration $base-timing;
+    
+    &:after {
+      content: "";
+      width: 0;
+      height: 2px;
+      position: absolute;
+      bottom: -.2rem;
+      right: 0;
+      background: $blue;
+      transition: all $base-duration $base-timing;
+    } 
+    &:hover {
+      color: $blue;
+      transition: all $base-duration $base-timing;
+      
+      &:after {
+        width: 100%;
+        left: 0;
+      }
+    }
+  }
+}
+
+
+///////// 
+// Blockquote
+///////// 
+blockquote {
+  border-left: 2px solid $blue;
+  padding-left: $margin-large;
+  margin: $margin-large $margin-large $margin-large $margin;
+
+  h1, h2, h3, h4, h5, h6 {
+    color: $base-font-color;
+  }
+}

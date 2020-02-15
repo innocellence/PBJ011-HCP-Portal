@@ -1,0 +1,115 @@
+//Devices
+$large-screen: 1140px;
+$medium-screen: 1080px;
+$tablet-screen: 800px;
+$mobile-screen: 500px;
+
+//Type Systems
+$base-font-family: "Inter", 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$serif: "Roboto Slab", serif;
+$icon: 'Material Icons';
+$code-font: Menlo, Consolas, "Courier New", Courier, "Liberation Mono", monospace;
+
+//Font Sizing
+$base-font-size: 16px;
+$base-line-height: 1.6;
+$heading-line-height: 1.15;
+
+//Font Sizes
+$typo_ostrich: 6vw;
+$typo_albatros: 4rem;
+$typo_eagle: 3rem;
+$typo_hawk: 2rem;
+$typo_crow: 1.8rem;
+$typo_sparrow: 1rem;
+$typo_hummingbird: .875rem;
+
+//Tablet Font Sizes
+$t_typo_ostrich: 3.5rem;
+$t_typo_albatros: 3rem;
+$t_typo_eagle: 2rem;
+$t_typo_hawk: 1.7rem;
+$t_typo_crow: 1.4rem;
+$t_typo_sparrow: 1rem;
+$t_typo_hummingbird: .875rem;
+
+//Mobile Font Sizes
+$m_typo_ostrich: 3rem;
+$m_typo_albatros: 2.5rem;
+$m_typo_eagle: 2rem;
+$m_typo_hawk: 1.7rem;
+$m_typo_crow: 1.4rem;
+$m_typo_sparrow: 1rem;
+$m_typo_hummingbird: .875rem;
+
+//Primary Colors
+$blue: royalblue;
+$red: tomato;
+$grey: dimgray;
+$bleach: lighten(dimgray, 50%);
+$yellow: lightgoldenrodyellow;
+$smoke: whitesmoke;
+$bisque: floralwhite;
+$floralwhite: floralwhite;
+$black: rgba(0,0,0,1);
+$white: #FFFFFF;
+$pink: #ea4c89;
+
+$background: $floralwhite;
+$col_primary: $blue;
+
+//Color Shades
+$blue_lightest: lighten($blue, 10%);
+$blue_lighter: lighten($blue, 8%);
+$blue_light: lighten($blue, 5%);
+$blue_dark: darken($blue, 5%);
+$blue_darker: darken($blue, 8%);
+$blue_darkest: darken($blue, 10%);
+
+$red_lightest: lighten($red, 10%);
+$red_lighter: lighten($red, 8%);
+$red_light: lighten($red, 5%);
+$red_dark: darken($red, 5%);
+$red_darker: darken($red, 8%);
+$red_darkest: darken($red, 10%);
+
+$grey_lightest: lighten($grey, 10%);
+$grey_lighter: lighten($grey, 8%);
+$grey_light: lighten($grey, 5%);
+$grey_dark: darken($grey, 5%);
+$grey_darker: darken($grey, 8%);
+$grey_darkest: darken($grey, 10%);
+
+//Animations
+$base-duration: .3s;
+$base-timing: ease-in-out;
+
+//Font Colors
+$base-font-color: $black;
+$heading-font-color: $black;
+
+//link Color
+$link-color: $red;
+$link-hover-color: $blue;
+
+//Code Color
+$code-color: #111;
+$code-font-color: $white;
+
+//Spacing
+$base-spacing: 1.5rem;
+$small-spacing: $base-spacing / 3; //0.5rem
+$base-padding: 1rem;
+
+// Margins
+$margin: 1rem;
+$margin-small: .5rem;
+$margin-large: 1.5rem;
+$margin-huge: 2rem;
+
+//Borders
+$base-rad: .1rem;
+
+//Footer
+$footer-color: $black;
+$footer-link-color: transparentize($footer-color, 0.5);
