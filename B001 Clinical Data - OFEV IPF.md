@@ -183,17 +183,14 @@ product:
 
 ## 適用上の注意及びその他の注意
 
-1. **適用上の注意**
-2.薬剤交付時の注意
-	
+ 1. **適用上の注意**
+	<br> 薬剤交付時の注意
 	1. PTP 包装の薬剤はPTP シートから取り出して服用するよう指導すること。PTP シートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することが報告されている。
 	2. 本剤は吸湿性があるので、服用直前にPTP シートから取り出すよう指導すること。また、アルミピロー包装注）のまま調剤を行うことが望ましい。
-			注）1アルミピロー包装中に28カプセル（14カプセル入りPTP シート×2）を含む。
-
-
-> 14.1 薬剤投与時の注意
-> 1. 服薬を忘れた場合は、次の服薬スケジュール（朝又は夕方）から推奨用量で再開すること。
-> 2. カプセルは噛まずにコップ一杯の水とともに服薬すること。
+		<br> 注）1アルミピロー包装中に28カプセル（14カプセル入りPTP シート×2）を含む。
+ 2. **薬剤投与時の注意**
+	 1. 服薬を忘れた場合は、次の服薬スケジュール（朝又は夕方）から推奨用量で再開すること。
+	 2. カプセルは噛まずにコップ一杯の水とともに服薬すること。
 
  1. **その他の注意**
 	1. 臨床試験に基づく情報
@@ -226,9 +223,9 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyNzkyMjIwLDEzMzI4MDYzNzAsNzAwNz
-I0MTcxLC0zMjM2NTczMjMsMjI1NjY2MTc2LDEyMDI0NjE0NzQs
-LTk4NTYzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3Nz
-M5NjEyNiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYw
-MzgsLTY1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbLTE0MDk5ODU4MDgsMTMzMjgwNjM3MCw3MD
+A3MjQxNzEsLTMyMzY1NzMyMywyMjU2NjYxNzYsMTIwMjQ2MTQ3
+NCwtOTg1NjMyODY3LDI2NDE0NzY0OSwtMTg4NjY5MzA2MiwxOT
+c3Mzk2MTI2LC0xOTk5NjgyMTUsMTE0MTg2MTUwOCwtMTI3MDQw
+NjAzOCwtNjUyNjM1MDE0XX0=
 -->
