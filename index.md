@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: default
 exclude: true
 ---
 {% assign files = site.pages | where_exp: "page", "page.exclude != true" %}
