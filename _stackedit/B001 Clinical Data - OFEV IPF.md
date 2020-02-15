@@ -49,6 +49,7 @@ product:
 > 
 > 本剤の使用は、本剤の適応症の治療に精通している医師のもとで行うこと。
 
+> {:start="2"}
 > 2. 禁忌（次の患者には投与しないこと）
 > 
 > 2.1. 妊婦又は妊娠している可能性のある女性［9.5 参照］
@@ -86,6 +87,6 @@ product:
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNj
-UyNjM1MDE0XX0=
+eyJoaXN0b3J5IjpbLTUxMjY0MDkxNywxMTQxODYxNTA4LC0xMj
+cwNDA2MDM4LC02NTI2MzUwMTRdfQ==
 -->
