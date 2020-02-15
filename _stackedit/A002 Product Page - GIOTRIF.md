@@ -17,16 +17,16 @@ breadcrumb:
     label: Home
     url: #
   - level-2: 
-    label: GIOTRIF®
+    label: ジオトリフ®
     url: #
 
 # indications
 indication-count: 1
-indication-header: GIOTRIF® Indicaitons
+indication-header: ジオトリフ® Indicaitons
 indications:
   - indication:
-    title: GIOTRIF® for NSCLC
-    supplemental: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor.
+    title: ジオトリフ® for NSCLC
+    supplemental: ジオトリフ®（一般名：アファチニブマレイン酸塩）は、ErbBファミリーを不可逆的に阻害する経口の抗悪性腫瘍剤／チロシンキナーゼ阻害剤です。
     button: See all clinical data
     button-url: #
     links: 
@@ -41,12 +41,12 @@ indications:
 # resources
 resource-count: 3
 resource-header: GIOTRIF® Resources
-resource-button: See all resources
+resource-button: 製品の関連情報をすべて見る
 resource-button-url: #
 
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDcyOTU3NjYsLTE2ODk2MjI2MzksNT
-kxODE5Nzk2XX0=
+eyJoaXN0b3J5IjpbMTY2NDk2MTg3NiwtMTY4OTYyMjYzOSw1OT
+E4MTk3OTZdfQ==
 -->
