@@ -155,7 +155,7 @@ ol {
     counter-increment: list;   
 
     &:before {
-      content: counters(list, ".");
+      content: counters(list, ".") ".";
     }
   }
   
