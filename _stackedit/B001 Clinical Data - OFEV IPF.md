@@ -14,14 +14,14 @@ date: YYYY-MM-DD
 brand-banner: OFEV
 breadcrumb:
   - level-1: 
-    label: Page Name
-    url: URL
+    label: Home
+    url: #
   - level-2: 
-    label: Page Name
-    url: URL
+    label: OFEV®
+    url: #
   - level-3: 
-    label: Page Name
-    url: URL
+    label: OFEV® for IPF
+    url: #
 
 # content 
 introduction: The product has been used to treat condition X since date Y. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor.
@@ -97,5 +97,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTAxNzk3OCwtNjUyNjM1MDE0XX0=
+eyJoaXN0b3J5IjpbMTk2MzA5MDc2NSwtNjUyNjM1MDE0XX0=
 -->
