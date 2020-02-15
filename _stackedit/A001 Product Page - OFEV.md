@@ -14,7 +14,7 @@ date: YYYY-MM-DD
 brand-banner: OFEV
 breadcrumb:
   - level-1: 
-    label: Home
+    label: ホーム
     url: #
   - level-2: 
     label: オフェブ®
@@ -74,5 +74,5 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxODE0NTEzXX0=
+eyJoaXN0b3J5IjpbMTUzMDMzMjMxM119
 -->
