@@ -93,11 +93,10 @@ product:
 
 # 特定の背景を有する患者に関する注意
 
-1. 血栓塞栓症の既往歴及びその素因のある患者
-血栓塞栓事象の発現を助長する可能性がある。
-2. 出血性素因のある患者、抗凝固剤治療を行っている患者
-出血リスクを助長する可能性がある。
+1. 血栓塞栓症の既往歴及びその素因のある患者。<br>血栓塞栓事象の発現を助長する可能性がある。
+2. 出血性素因のある患者、抗凝固剤治療を行っている患者。<br>出血リスクを助長する可能性がある。
 3. 肝機能障害患者
+	4. 中等度及び高度の肝機能障害（Child Pugh B、C）のある患者<br>治療上やむを得ないと判断される場合を除き、使用は避けること。使用する場合は、肝機能検査をより頻回		  に行うなど、慎重に患者の状態を観察すること。肝機能障害が悪化するおそれがある。また、中等度の肝機		  能障害（Child Pugh B）のある患者では血中濃度が上昇する。高度の肝機能障害（Child Pugh C）のある患		  者を対象とした有効性及び安全性を指標とした臨床試験は実施していない。[7.2、8.1、16.6.1参照](#)
 
 # Downloads
 
@@ -113,7 +112,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgwOTU2NzgsMjY0MTQ3NjQ5LC0xOD
+eyJoaXN0b3J5IjpbLTEwOTE2NjE3NjIsMjY0MTQ3NjQ5LC0xOD
 g2NjkzMDYyLDE5NzczOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYx
 NTA4LC0xMjcwNDA2MDM4LC02NTI2MzUwMTRdfQ==
 -->
