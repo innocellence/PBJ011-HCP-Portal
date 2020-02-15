@@ -148,7 +148,7 @@ product:
 ## 副作用
 
 1. 次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。
-	1.  **重大な副作用**
+	2. **重大な副作用**
 		<特発性肺線維症>
 		1. **重度の下** 痢（3.3%）  
 			下痢症状がみられる場合は速やかに補液やロペラミド等の止瀉剤投与を行い、本剤による治療の中断を検討すること。これらの対症療法にもかかわらず持続するような重度の下痢の場合は、本剤による治療を中止し、再投与は行わないこと。［7.1参照］
@@ -183,8 +183,8 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MTE0MzAzLC0zMjM2NTczMjMsMjI1Nj
-Y2MTc2LDEyMDI0NjE0NzQsLTk4NTYzMjg2NywyNjQxNDc2NDks
-LTE4ODY2OTMwNjIsMTk3NzM5NjEyNiwtMTk5OTY4MjE1LDExND
-E4NjE1MDgsLTEyNzA0MDYwMzgsLTY1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbLTEzNDk3MDgzNDQsLTMyMzY1NzMyMywyMj
+U2NjYxNzYsMTIwMjQ2MTQ3NCwtOTg1NjMyODY3LDI2NDE0NzY0
+OSwtMTg4NjY5MzA2MiwxOTc3Mzk2MTI2LC0xOTk5NjgyMTUsMT
+E0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNjUyNjM1MDE0XX0=
 -->
