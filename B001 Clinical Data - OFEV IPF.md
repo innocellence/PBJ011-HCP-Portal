@@ -96,7 +96,7 @@ product:
 1. 血栓塞栓症の既往歴及びその素因のある患者
 血栓塞栓事象の発現を助長する可能性がある。
 2. 出血性素因のある患者、抗凝固剤治療を行っている患者
-	出血リスクを助長する可能性がある。
+出血リスクを助長する可能性がある。
 3. 肝機能障害患者
 
 # Downloads
@@ -113,7 +113,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk0OTY4NTQsMjY0MTQ3NjQ5LC0xOD
+eyJoaXN0b3J5IjpbLTE5MDgwOTU2NzgsMjY0MTQ3NjQ5LC0xOD
 g2NjkzMDYyLDE5NzczOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYx
 NTA4LC0xMjcwNDA2MDM4LC02NTI2MzUwMTRdfQ==
 -->
