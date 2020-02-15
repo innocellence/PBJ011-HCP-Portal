@@ -186,7 +186,7 @@ product:
 
 ## 適用上の注意及びその他の注意
 
-1.**適用上の注意**
+1. **適用上の注意**
 
 	薬剤交付時の注意
 	
@@ -230,7 +230,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTU4NDM0LDEzMzI4MDYzNzAsNzAwNz
+eyJoaXN0b3J5IjpbODgwNDQxNTI0LDEzMzI4MDYzNzAsNzAwNz
 I0MTcxLC0zMjM2NTczMjMsMjI1NjY2MTc2LDEyMDI0NjE0NzQs
 LTk4NTYzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3Nz
 M5NjEyNiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYw
