@@ -131,6 +131,7 @@ blockquote {
 
 .footnotes p {
   margin: 0;
+  display: inline-block;
 }
 
 .stackedit__html.wide {
@@ -145,33 +146,61 @@ blockquote {
   right: 250px;
 }
     
-ol {
-  counter-reset: section;
-  padding-inline-start: 3em; 
-  
-  > li {
-    list-style: none;
-    position: relative;
-  }
-  > li:before {
-    counter-increment: section;
-    content: counter(section, decimal) ". ";
-    position: absolute;
-    left: -2em;
-  }
-}
-    
-ol ol {
-  padding-inline-start: 4em; 
 
-  > li {
-    list-style: none;
-    position: relative;
+ol {
+  counter-reset: list;                
+  list-style-type: none;
+
+  li {
+    counter-increment: list;   
+
+    &:before {
+      content: counters(list, ".");
+    }
   }
-  > li:before {
-    counter-increment: section;
-    content: "(" counters(section, ".") ") ";
-    position: absolute;
-    left: -3em;
+  
+  li {
+    padding-left: 2em;
   }
+  li:before {
+    margin-left: -3em;
+    width: 3em;
+    display: inline-block;
+  }
+
 }
+
+ol ol > li:before {
+  content: "(" counters(list, ".") ")";
+}
+
+//ol {
+//  counter-reset: section;
+//  padding-inline-start: 3em; 
+//  
+//  > li {
+//    list-style: none;
+//    position: relative;
+//  }
+//  > li:before {
+//    counter-increment: section;
+//    content: counter(section, decimal) ". ";
+//    position: absolute;
+//    left: -2em;
+//  }
+//}
+//    
+//ol ol {
+//  padding-inline-start: 4em; 
+//
+//  > li {
+//    list-style: none;
+//    position: relative;
+//  }
+//  > li:before {
+//    counter-increment: section;
+//    content: "(" counters(section, ".") ") ";
+//    position: absolute;
+//    left: -3em;
+//  }
+//}

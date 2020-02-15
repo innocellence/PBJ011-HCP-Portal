@@ -61,6 +61,18 @@ function backtoTop() {
 }
 
 
+///////////
+// Style Nested Lists
+///////////
+function styleNestedLists() {
+  
+  $('ol[start]').each(function() {
+      var val = parseFloat($(this).attr("start")) -1;
+      $(this).css('counter-increment','list '+ val);
+  });
+}
+
+
 // -------------------------------------------------------------- //
 // INIT                                                           //
 // -------------------------------------------------------------- //
@@ -70,6 +82,7 @@ function init() {
   generateTOC();
 //  smoothScroll();
   externalLinks();
+  styleNestedLists();
 }
 
 
