@@ -14,7 +14,7 @@ date: YYYY-MM-DD
 brand-banner: GIOTRIF
 breadcrumb:
   - level-1: 
-    label: Home
+    label: ホーム
     url: #
   - level-2: 
     label: ジオトリフ®
@@ -47,6 +47,6 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQyMjU5MDUsLTE2ODk2MjI2MzksNT
-kxODE5Nzk2XX0=
+eyJoaXN0b3J5IjpbMjExMzcyNDAwNSwtMTY4OTYyMjYzOSw1OT
+E4MTk3OTZdfQ==
 -->
