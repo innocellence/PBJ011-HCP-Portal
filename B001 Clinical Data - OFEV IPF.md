@@ -158,7 +158,7 @@ product:
 	4. **血小板減少**（頻度不明）  
 		<br> 血小板減少があらわれ、出血に至った重篤な症例も報告されている。[8.2参照]
 	5. **消化管穿孔**（0.2%）  
-		<br> 異常が認められた場合には、内視鏡、腹部X 線、CT 等の必要な検査を行うこと。
+		<br>異常が認められた場合には、内視鏡、腹部X 線、CT 等の必要な検査を行うこと。
 	6. **間質性肺炎**（頻度不明）  
 		<br> 本剤の癌を対象とした臨床試験で間質性肺炎がみられており、胸部画像検査や呼吸機能検査で急激な悪化等の薬剤性の間質性肺炎の徴候がみられる場合は、本剤の投与を中止し、適切な処置を行うこと。
 2. その他の副作用
@@ -184,10 +184,10 @@ product:
 ## 適用上の注意及びその他の注意
 
  1. **適用上の注意**
-	<br> 薬剤交付時の注意
+	<br>薬剤交付時の注意
 	1. PTP 包装の薬剤はPTP シートから取り出して服用するよう指導すること。PTP シートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することが報告されている。
 	2. 本剤は吸湿性があるので、服用直前にPTP シートから取り出すよう指導すること。また、アルミピロー包装注）のまま調剤を行うことが望ましい。
-		<br> 注）1アルミピロー包装中に28カプセル（14カプセル入りPTP シート×2）を含む。
+		<br>注）1アルミピロー包装中に28カプセル（14カプセル入りPTP シート×2）を含む。
  2. **薬剤投与時の注意**
 	 1. 服薬を忘れた場合は、次の服薬スケジュール（朝又は夕方）から推奨用量で再開すること。
 	 2. カプセルは噛まずにコップ一杯の水とともに服薬すること。
@@ -223,9 +223,9 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk5ODU4MDgsMTMzMjgwNjM3MCw3MD
-A3MjQxNzEsLTMyMzY1NzMyMywyMjU2NjYxNzYsMTIwMjQ2MTQ3
-NCwtOTg1NjMyODY3LDI2NDE0NzY0OSwtMTg4NjY5MzA2MiwxOT
-c3Mzk2MTI2LC0xOTk5NjgyMTUsMTE0MTg2MTUwOCwtMTI3MDQw
-NjAzOCwtNjUyNjM1MDE0XX0=
+eyJoaXN0b3J5IjpbLTU1NzI3NTU3NiwxMzMyODA2MzcwLDcwMD
+cyNDE3MSwtMzIzNjU3MzIzLDIyNTY2NjE3NiwxMjAyNDYxNDc0
+LC05ODU2MzI4NjcsMjY0MTQ3NjQ5LC0xODg2NjkzMDYyLDE5Nz
+czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
+MDM4LC02NTI2MzUwMTRdfQ==
 -->
