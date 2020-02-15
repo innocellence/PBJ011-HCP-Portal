@@ -145,6 +145,14 @@ product:
 | P-糖蛋白誘導剤リファンピシンカルバマゼピンフェニトインセイヨウオトギリソウ（ St. John's Wort、セント・ジョーンズ・ワート）含有食品等［16.7.2 参照］ | P-糖蛋白誘導剤との併用により、本剤の作用が減弱する可能性がある。P-糖蛋白誘導作用のない又は少ない薬剤の選択を検討すること。 | P-糖蛋白の誘導により本剤の曝露が低下する可能性がある。リファンピシンとの併用によりニンテダニブのAUCが約50％、Cmax
 が約60％まで減少した。 |
 
+
+## 副作用
+
+<![endif]-->
+
+11. 次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。
+
+
 # Downloads
 
 [Link](url)
@@ -159,8 +167,8 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODIyMjQyLDEyMDI0NjE0NzQsLTk4NT
-YzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3NzM5NjEy
-NiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYwMzgsLT
-Y1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbLTU0MDU3OTg5MiwxMjAyNDYxNDc0LC05OD
+U2MzI4NjcsMjY0MTQ3NjQ5LC0xODg2NjkzMDYyLDE5NzczOTYx
+MjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2MDM4LC
+02NTI2MzUwMTRdfQ==
 -->
