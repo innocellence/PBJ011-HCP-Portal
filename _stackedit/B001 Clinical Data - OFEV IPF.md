@@ -147,7 +147,7 @@ product:
 
 > 次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。
 
-**<特発性肺線維症>**
+**特発性肺線維症**
 
 1. 重大な副作用
 	1. **重度の下** 痢（3.3%）  
@@ -159,8 +159,8 @@ product:
 		<br> 血小板減少があらわれ、出血に至った重篤な症例も報告されている。[8.2参照]
 	5. **消化管穿孔**（0.2%）  
 		<br> 異常が認められた場合には、内視鏡、腹部X 線、CT 等の必要な検査を行うこと。
-		6. **間質性肺炎**（頻度不明）  
-			本剤の癌を対象とした臨床試験で間質性肺炎がみられており、胸部画像検査や呼吸機能検査で急激な悪化等の薬剤性の間質性肺炎の徴候がみられる場合は、本剤の投与を中止し、適切な処置を行うこと。
+	6. **間質性肺炎**（頻度不明）  
+		<br> 本剤の癌を対象とした臨床試験で間質性肺炎がみられており、胸部画像検査や呼吸機能検査で急激な悪化等の薬剤性の間質性肺炎の徴候がみられる場合は、本剤の投与を中止し、適切な処置を行うこと。
 2. その他の副作用
 
 **<特発性肺線維症>**
@@ -229,7 +229,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTUxOTc1MiwxMzMyODA2MzcwLDcwMD
+eyJoaXN0b3J5IjpbLTkxNjAxNDUyOCwxMzMyODA2MzcwLDcwMD
 cyNDE3MSwtMzIzNjU3MzIzLDIyNTY2NjE3NiwxMjAyNDYxNDc0
 LC05ODU2MzI4NjcsMjY0MTQ3NjQ5LC0xODg2NjkzMDYyLDE5Nz
 czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
