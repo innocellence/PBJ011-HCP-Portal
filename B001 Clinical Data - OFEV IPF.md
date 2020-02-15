@@ -29,25 +29,27 @@ introduction: オフェブ®（一般名：ニンテダニブエタンスルホ�
 # product table
 product:
   - name: 
-    label: name
+    label: 製品名
     value: オフェブカプセル 100mg/150mg
   - type: 
-    label: type
-    value: Prescription Drug
+    label: 区分
+    value: 処方箋医薬品
   - indication: 
-    label: indication
-    value: Indication/Condition
+    label: 適応症
+    value: 特発性肺線維症
   - ingredient: 
-    label: ingredient
-    value: Molecule Name
+    label: 有効成分
+    value: ニンテダニブエタンスルホン酸塩
 ---
 
 
-# Section Header
+# 警告、禁忌及び効能又は効果に関連する注意
 
 ## 1. Sub Section Header
 
-> Important content goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> 1.	警告
+>
+>
 
 
 > 1.1 List Item
@@ -97,5 +99,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ3MjI2MDcsLTY1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbLTMyODIyMDgwMiwtNjUyNjM1MDE0XX0=
 -->
