@@ -90,6 +90,18 @@ product:
 
 # 組成・性状
 
+| 販売名 | オフェブカプセル100mg | オフェブカプセル150mg |
+| --- | --- | --- |
+| 有効成分 | 1カプセル中 ニンテダニブエタンスルホン酸塩 120.4mg（ニンテダニブとして100mg） | 1カプセル中 ニンテダニブエタンスルホン酸塩 180.6mg（ニンテダニブとして150mg） |
+| 添加剤 | 中鎖脂肪酸トリグリセリド、ハードファット、大豆レシチン、ゼラチン、グリセリン、酸化チタン、三二酸化鉄、黄色三二酸化鉄 |
+
+3.2 製剤の性状
+
+| 販売名 | オフェブカプセル100mg | オフェブカプセル150mg |
+| --- | --- | --- |
+| 剤形 | うすい橙色不透明の軟カプセル剤 | 褐色不透明の軟カプセル剤 |
+| 内容物 | あざやかな黄色の粘稠性のある懸濁液 | あざやかな黄色の粘稠性のある懸濁液 |
+| 外形 |
 
 # 特定の背景を有する患者に関する注意
 
@@ -121,8 +133,8 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjQ2MTQ3NCwtOTg1NjMyODY3LDI2ND
-E0NzY0OSwtMTg4NjY5MzA2MiwxOTc3Mzk2MTI2LC0xOTk5Njgy
-MTUsMTE0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNjUyNjM1MDE0XX
-0=
+eyJoaXN0b3J5IjpbLTEzNTEyNzg0NzUsMTIwMjQ2MTQ3NCwtOT
+g1NjMyODY3LDI2NDE0NzY0OSwtMTg4NjY5MzA2MiwxOTc3Mzk2
+MTI2LC0xOTk5NjgyMTUsMTE0MTg2MTUwOCwtMTI3MDQwNjAzOC
+wtNjUyNjM1MDE0XX0=
 -->
