@@ -22,7 +22,7 @@ breadcrumb:
 
 # indications
 indication-count: 1
-indication-header: Product/Brand Name® Indicaitons
+indication-header: GIOTRIF® Indicaitons
 indications:
   - indication:
     title: GIOTRIF® for NSCLC
@@ -47,5 +47,5 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MDQ3MjYxLDU5MTgxOTc5Nl19
+eyJoaXN0b3J5IjpbLTE2ODk2MjI2MzksNTkxODE5Nzk2XX0=
 -->
