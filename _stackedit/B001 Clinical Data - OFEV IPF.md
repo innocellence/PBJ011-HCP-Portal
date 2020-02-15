@@ -151,14 +151,14 @@ product:
 
 1. 重大な副作用
 	1. **重度の下** 痢（3.3%）  
-		<br> 下痢症状がみられる場合は速やかに補液やロペラミド等の止瀉剤投与を行い、本剤による治療の中断を検討すること。これらの対症療法にもかかわらず持続するような重度の下痢の場合は、本剤による治療を中止し、再投与は行わないこと。［7.1参照］
+		<br>下痢症状がみられる場合は速やかに補液やロペラミド等の止瀉剤投与を行い、本剤による治療の中断を検討すること。これらの対症療法にもかかわらず持続するような重度の下痢の場合は、本剤による治療を中止し、再投与は行わないこと。［7.1参照］
 	2. **肝機能障害**（0.9%）
 		［7.2、 8.1 参照］
 	3. **血栓塞栓症**（**静脈血栓塞栓**（頻度不明）、**動脈血栓塞栓**（0.5%））
 	4. **血小板減少**（頻度不明）  
-		<br> 血小板減少があらわれ、出血に至った重篤な症例も報告されている。[8.2参照]
+		<br>血小板減少があらわれ、出血に至った重篤な症例も報告されている。[8.2参照]
 	5. **消化管穿孔**（0.2%）  
-		<br> 異常が認められた場合には、内視鏡、腹部X 線、CT 等の必要な検査を行うこと。
+		<br>異常が認められた場合には、内視鏡、腹部X 線、CT 等の必要な検査を行うこと。
 	6. **間質性肺炎**（頻度不明）  
 		<br> 本剤の癌を対象とした臨床試験で間質性肺炎がみられており、胸部画像検査や呼吸機能検査で急激な悪化等の薬剤性の間質性肺炎の徴候がみられる場合は、本剤の投与を中止し、適切な処置を行うこと。
 2. その他の副作用
@@ -223,9 +223,9 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDMwMjYxMTQsMTMzMjgwNjM3MCw3MD
-A3MjQxNzEsLTMyMzY1NzMyMywyMjU2NjYxNzYsMTIwMjQ2MTQ3
-NCwtOTg1NjMyODY3LDI2NDE0NzY0OSwtMTg4NjY5MzA2MiwxOT
-c3Mzk2MTI2LC0xOTk5NjgyMTUsMTE0MTg2MTUwOCwtMTI3MDQw
-NjAzOCwtNjUyNjM1MDE0XX0=
+eyJoaXN0b3J5IjpbLTM2MDUyMjY1MCwxMzMyODA2MzcwLDcwMD
+cyNDE3MSwtMzIzNjU3MzIzLDIyNTY2NjE3NiwxMjAyNDYxNDc0
+LC05ODU2MzI4NjcsMjY0MTQ3NjQ5LC0xODg2NjkzMDYyLDE5Nz
+czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
+MDM4LC02NTI2MzUwMTRdfQ==
 -->
