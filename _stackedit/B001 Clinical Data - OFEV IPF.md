@@ -210,12 +210,13 @@ product:
 | 本剤群 | プラセボ群 |
 | 全体集団 |
 | FVCの年間減少率［95%信頼区間］a）（例数） | -114.7［-144.8、-84.5］（309） | -239.9［-276.7、-203.1］（204） |
-| プラセボ群との差［95%信頼区間］
-## a）
-p 値 | 125.3［77.7、172.8］p\&lt;0.0001 |   |
+| プラセボ群との差［95%信頼区間］a）p 値 | 125.3［77.7、172.8］p\&lt;0.0001 |   |
 | ベースライン（mL） | 2756.8±735.1（309） | 2844.5±820.1（204） |
 | 投与52 週時（mL） | 2669.0±772.0（250） | 2664.4±834.0（165） |
 | 変化量（mL） | -90.9±242.7（250） | -201.8±305.9（165） |
+
+平均値±標準偏差（例数）
+a）投与群、性別、年齢及び身長を固定効果、切片及び時期（数値変数）を変量効果としたランダム係数回帰モデル
 
 
 
@@ -233,9 +234,9 @@ p 値 | 125.3［77.7、172.8］p\&lt;0.0001 |   |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0ODA3NDc3LDEzMzI4MDYzNzAsNzAwNz
-I0MTcxLC0zMjM2NTczMjMsMjI1NjY2MTc2LDEyMDI0NjE0NzQs
-LTk4NTYzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3Nz
-M5NjEyNiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYw
-MzgsLTY1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbLTc0NzU0MDIzMywxMzMyODA2MzcwLDcwMD
+cyNDE3MSwtMzIzNjU3MzIzLDIyNTY2NjE3NiwxMjAyNDYxNDc0
+LC05ODU2MzI4NjcsMjY0MTQ3NjQ5LC0xODg2NjkzMDYyLDE5Nz
+czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
+MDM4LC02NTI2MzUwMTRdfQ==
 -->
