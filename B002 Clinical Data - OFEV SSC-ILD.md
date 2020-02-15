@@ -1,7 +1,7 @@
 ---
 # base
 layout: B
-title: OFEV® for IPF
+title: OFEV® for SSC-ILD
 
 # seo
 author: 日本ベーリンガーインゲルハイム株式会社
@@ -20,7 +20,7 @@ breadcrumb:
     label: OFEV®
     url: #
   - level-3: 
-    label: OFEV® for IPF
+    label: OFEV® for SSC-
     url: #
 
 # content 
@@ -97,5 +97,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzA5MDc2NV19
+eyJoaXN0b3J5IjpbLTE4OTAxMDkxMjYsMTk2MzA5MDc2NV19
 -->
