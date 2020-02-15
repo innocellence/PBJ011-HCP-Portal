@@ -127,8 +127,16 @@ product:
    <br> 低出生体重児、新生児、乳児、幼児又は小児に対する安全性は確立していない。［使用経験がない］
 7. 小児等
 	<br> 小児等を対象とした臨床試験は実施していない。
-8. 
+8. 高齢者
+	<br> 一般に生理機能が低下している。
 
+
+
+## 相互作用
+
+本剤はP-糖蛋白の基質である。
+
+1. 併用注意（併用に注意すること）
 
 # Downloads
 
@@ -144,7 +152,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyNjEyMzcyLDEyMDI0NjE0NzQsLTk4NT
+eyJoaXN0b3J5IjpbODUzNzM5MTYwLDEyMDI0NjE0NzQsLTk4NT
 YzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3NzM5NjEy
 NiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYwMzgsLT
 Y1MjYzNTAxNF19
