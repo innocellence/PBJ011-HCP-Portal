@@ -47,14 +47,15 @@ product:
 
 
 
-> **警告**
-> 
-> 本剤の使用は、本剤の適応症の治療に精通している医師のもとで行うこと。
+>**警告**
+>
+>本剤の使用は、本剤の適応症の治療に精通している医師のもとで行うこと。
 
 
-> **禁忌（次の患者には投与しないこと）**
-> 	 1. 妊婦又は妊娠している可能性のある女性 [9.5 参照]
-> 	 2. 本剤の成分に対し過敏症の既往歴のある患者
+>**禁忌（次の患者には投与しないこと）**
+>
+>1. 妊婦又は妊娠している可能性のある女性 [9.5 参照]
+>2. 本剤の成分に対し過敏症の既往歴のある患者
 
 
 
@@ -234,10 +235,10 @@ a）投与群、性別、年齢及び身長を固定効果、切片及び時期�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzUyNjM0OSwxOTMwMzkwNTQ5LDI0Nj
-ExMDk4NSwtNzQ3NTQwMjMzLDEzMzI4MDYzNzAsNzAwNzI0MTcx
-LC0zMjM2NTczMjMsMjI1NjY2MTc2LDEyMDI0NjE0NzQsLTk4NT
-YzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3NzM5NjEy
-NiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYwMzgsLT
-Y1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbMjg5ODM5MDI5LDE5MzAzOTA1NDksMjQ2MT
+EwOTg1LC03NDc1NDAyMzMsMTMzMjgwNjM3MCw3MDA3MjQxNzEs
+LTMyMzY1NzMyMywyMjU2NjYxNzYsMTIwMjQ2MTQ3NCwtOTg1Nj
+MyODY3LDI2NDE0NzY0OSwtMTg4NjY5MzA2MiwxOTc3Mzk2MTI2
+LC0xOTk5NjgyMTUsMTE0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNj
+UyNjM1MDE0XX0=
 -->
