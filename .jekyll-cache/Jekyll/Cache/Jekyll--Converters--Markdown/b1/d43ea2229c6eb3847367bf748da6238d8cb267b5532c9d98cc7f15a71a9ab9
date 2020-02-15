@@ -1,25 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Home</title>
-  <meta name="keywords" content="">
-  <meta name="description" content="">
-  <meta name="author" content="">
-  <!-- styles --> 
-  <link rel="stylesheet" href="assets/css/style.css" />
-</head>
-<body>  
-  
+I"
+
 <div class="stackedit">
   <div class="stackedit__html wide">
     <h1>Page Index</h1>
     <ul class="list--index">
       
+      class="template"
+      <li class="template"><a href="/PBJ011-HCP-Portal/A%20Product%20Page%20-%20TEMPLATE.html"><span>Product/Brand Name®</span><br /><small>Template: A</small><br /><small>Filename: A Product Page - TEMPLATE.md</small></a></li>
       
-      <li class="template"><a href="/PBJ011-HCP-Portal/A%20Product%20Page%20-%20TEMPLATE.html">Template: A Product Page - TEMPLATE.md</a></li>
+      
+      <li><a href="/PBJ011-HCP-Portal/A%20Product%20Page%20-%20TEMPLATE.html"><span>Product/Brand Name®</span><br /><small>Template: A</small><br /><small>Filename: A Product Page - TEMPLATE.md</small></a></li>
       
       
       
@@ -29,9 +19,11 @@
       
       <li><a href="/PBJ011-HCP-Portal/A002%20Product%20Page%20-%20GIOTRIF.html"><span>GIOTRIF®</span><br /><small>Template: A</small><br /><small>Filename: A002 Product Page - GIOTRIF.md</small></a></li>
       
+      class="template"
+      <li class="template"><a href="/PBJ011-HCP-Portal/B%20Clinical%20Data%20-%20TEMPLATE.html"><span>Product/Brand Name® for Condition</span><br /><small>Template: B</small><br /><small>Filename: B Clinical Data - TEMPLATE.md</small></a></li>
       
       
-      <li class="template"><a href="/PBJ011-HCP-Portal/B%20Clinical%20Data%20-%20TEMPLATE.html">Template: B Clinical Data - TEMPLATE.md</a></li>
+      <li><a href="/PBJ011-HCP-Portal/B%20Clinical%20Data%20-%20TEMPLATE.html"><span>Product/Brand Name® for Condition</span><br /><small>Template: B</small><br /><small>Filename: B Clinical Data - TEMPLATE.md</small></a></li>
       
       
       
@@ -49,14 +41,7 @@
       
       <li><a href="/PBJ011-HCP-Portal/B004%20Clinical%20Data%20-%20GIOTRIF%20NSCLC.html"><span>GIOTRIF® for NSCLC</span><br /><small>Template: B</small><br /><small>Filename: B004 Clinical Data - GIOTRIF NSCLC.md</small></a></li>
       
-      
     </ul>
   </div>
 </div>
-
-  
-  <!-- scripts --> 
-  <script type="text/javascript" src="assets/js/libs/jquery-2.1.4.min.js"></script>  
-  <script type="text/javascript" src="assets/js/scripts.js"></script>
-</body>
-</html>
+:ET
