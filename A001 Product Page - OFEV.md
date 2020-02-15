@@ -1,7 +1,7 @@
 ---
 # base
 layout: A
-title: Product/Brand Name®
+title: Product/Brand NameOFEV®
 
 # seo
 author: 日本ベーリンガーインゲルハイム株式会社
@@ -77,5 +77,5 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzM3NTcyMl19
+eyJoaXN0b3J5IjpbLTgwNTQ2MTkyMiwtNDI3Mzc1NzIyXX0=
 -->
