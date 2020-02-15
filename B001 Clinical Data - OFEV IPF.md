@@ -181,6 +181,42 @@ product:
 
 # 過量投与
 
+なし
+
+
+## 適用上の注意及びその他の注意
+
+ - **適用上の注意**
+	2. 
+ - List item
+
+薬剤交付時の注意
+
+（1）PTP 包装の薬剤はPTP シートから取り出して服用するよう指導すること。PTP シートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することが報告されている。
+
+（2）本剤は吸湿性があるので、服用直前にPTP シートから取り出すよう指導すること。また、アルミピロー包装注）のまま調剤を行うことが望ましい。
+注）1アルミピロー包装中に28カプセル（14カプセル入りPTP シート×2）を含む。
+
+1.
+  1. 1.薬剤投与時の注意
+
+（1）服薬を忘れた場合は、次の服薬スケジュール（朝又は夕方）から推奨用量で再開すること。
+
+（2）カプセルは噛まずにコップ一杯の水とともに服薬すること。
+
+**2.その他の注意**
+
+（1）臨床試験に基づく情報
+本剤との因果関係は明確ではないが、本剤の癌を対象とした臨床試験において顎骨壊死が認められている。また、類薬［血管内皮増殖因子受容体（VEGFR）阻害剤］において、投与後に顎骨壊死が発現したとの報告があり、多くはビスホスホネート系製剤を投与中又は投与経験のある患者であった。
+
+（2）非臨床試験に基づく情報
+反復投与毒性試験で、ラットでは出血及び壊死を伴う切歯の破折が認められ、ラット及びサルでは、成長中の骨で骨端成長板の肥厚が認められた。
+
+## **臨床成績（有効性・安全性
+
+
+
+
 
 
 
@@ -198,8 +234,8 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5NTk5OTQwLC0zMjM2NTczMjMsMjI1Nj
-Y2MTc2LDEyMDI0NjE0NzQsLTk4NTYzMjg2NywyNjQxNDc2NDks
-LTE4ODY2OTMwNjIsMTk3NzM5NjEyNiwtMTk5OTY4MjE1LDExND
-E4NjE1MDgsLTEyNzA0MDYwMzgsLTY1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbLTU0NTM4Nzk5OSwtMzIzNjU3MzIzLDIyNT
+Y2NjE3NiwxMjAyNDYxNDc0LC05ODU2MzI4NjcsMjY0MTQ3NjQ5
+LC0xODg2NjkzMDYyLDE5NzczOTYxMjYsLTE5OTk2ODIxNSwxMT
+QxODYxNTA4LC0xMjcwNDA2MDM4LC02NTI2MzUwMTRdfQ==
 -->
