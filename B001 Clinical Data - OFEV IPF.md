@@ -114,13 +114,10 @@ product:
  2. 出血性素因のある患者、抗凝固剤治療を行っている患者。
 	 <br> 出血リスクを助長する可能性がある。
  3. 肝機能障害患者
-	{:class="reset-2"}
 	1. 中等度及び高度の肝機能障害（Child Pugh B、C）のある患者
 		<br> 治療上やむを得ないと判断される場合を除き、使用は避けること。使用する場合は、肝機能検査をより頻回に行うなど、慎重に患者の状態を観察すること。肝機能障害が悪化するおそれがある。また、中等度の肝機能障害（Child Pugh B）のある患者では血中濃度が上昇する。高度の肝機能障害（Child Pugh C）のある患者を対象とした有効性及び安全性を指標とした臨床試験は実施していない。[7.2、8.1、16.6.1参照]
 	2. 軽度の肝機能障害（Child Pugh A）のある患者
 		<br> 肝機能検査をより頻回に行うなど、慎重に患者の状態を観察すること。肝機能障害が悪化するおそれがある。[7.2、8.1、16.6.1参照]
-
-{:start="4"}
  4. 生殖能を有する者
 	 <br> 本剤投与開始前に妊娠検査を実施し，投与中も適宜実施すること。妊娠可能な女性は本剤の投与中及び投与終了の少なくとも3カ月後までは極めて有効な避妊措置をとること。ホルモン避妊剤を服用中はホルモン剤以外の避妊法を併用すること。現時点で本剤がホルモン避妊剤の効果を減弱するかどうかは不明である。
  6. 妊婦
@@ -150,8 +147,6 @@ product:
 
 ## 副作用
 
-<![endif]-->
-
 11. 次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。
 
 
@@ -169,8 +164,8 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjMwMjM0MjYsMjI1NjY2MTc2LDEyMD
-I0NjE0NzQsLTk4NTYzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMw
-NjIsMTk3NzM5NjEyNiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLT
-EyNzA0MDYwMzgsLTY1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbLTMyMzY1NzMyMywyMjU2NjYxNzYsMTIwMj
+Q2MTQ3NCwtOTg1NjMyODY3LDI2NDE0NzY0OSwtMTg4NjY5MzA2
+MiwxOTc3Mzk2MTI2LC0xOTk5NjgyMTUsMTE0MTg2MTUwOCwtMT
+I3MDQwNjAzOCwtNjUyNjM1MDE0XX0=
 -->
