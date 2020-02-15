@@ -164,8 +164,22 @@ product:
 			本剤の癌を対象とした臨床試験で間質性肺炎がみられており、胸部画像検査や呼吸機能検査で急激な悪化等の薬剤性の間質性肺炎の徴候がみられる場合は、本剤の投与を中止し、適切な処置を行うこと。
 2. その他の副作用
 
+**<特発性肺線維症>**
+
+|   | 10%以上 | 5%以上10%未満 | 5%未満 | 頻度不明 |
+| --- | --- | --- | --- | --- |
+| 代謝及び栄養障害 |   | 食欲減退、体重減少 |   |   |
+| 血管障害 |   |   | 高血圧 |   |
+| 胃腸障害 | 下痢（50.2％）、悪心（19.1％）、腹痛（10.3％） | 嘔吐 | 便秘 |   |
+| 肝胆道系障害 | 肝酵素上昇（AST、ALT、ALP、γ-GTP 上昇等）（13.3％） |   | 高ビリルビン血症 |   |
+| 皮膚及び皮下組織障害 |   |   | 発疹 | そう痒症 |
+| 神経障害 |   |   | 頭痛 |   |
+| その他 |   |   | 出血 |   |
 
 
+
+
+# 過量投与
 
 
 
@@ -184,8 +198,8 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTE0MDEyNSwtMzIzNjU3MzIzLDIyNT
-Y2NjE3NiwxMjAyNDYxNDc0LC05ODU2MzI4NjcsMjY0MTQ3NjQ5
-LC0xODg2NjkzMDYyLDE5NzczOTYxMjYsLTE5OTk2ODIxNSwxMT
-QxODYxNTA4LC0xMjcwNDA2MDM4LC02NTI2MzUwMTRdfQ==
+eyJoaXN0b3J5IjpbOTM5NTk5OTQwLC0zMjM2NTczMjMsMjI1Nj
+Y2MTc2LDEyMDI0NjE0NzQsLTk4NTYzMjg2NywyNjQxNDc2NDks
+LTE4ODY2OTMwNjIsMTk3NzM5NjEyNiwtMTk5OTY4MjE1LDExND
+E4NjE1MDgsLTEyNzA0MDYwMzgsLTY1MjYzNTAxNF19
 -->
