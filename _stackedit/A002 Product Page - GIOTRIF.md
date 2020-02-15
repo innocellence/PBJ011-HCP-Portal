@@ -21,7 +21,7 @@ breadcrumb:
     url: #
 
 # indications
-indication-count: 3
+indication-count: 1
 indication-header: Product/Brand Name® Indicaitons
 indications:
   - indication:
@@ -74,5 +74,5 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxODE5Nzk2XX0=
+eyJoaXN0b3J5IjpbMTU1OTU1NzY1MCw1OTE4MTk3OTZdfQ==
 -->
