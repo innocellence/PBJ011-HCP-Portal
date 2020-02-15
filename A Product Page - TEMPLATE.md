@@ -11,7 +11,7 @@ featuredImage: url
 date: YYYY-MM-DD
 
 # layout
-brand-banner: OFEV
+brand-banner: NAME
 breadcrumb:
   - level-1: 
     label: Page Name
@@ -77,5 +77,5 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzM3NTcyMl19
+eyJoaXN0b3J5IjpbLTExNzM4MjE5OTEsLTQyNzM3NTcyMl19
 -->
