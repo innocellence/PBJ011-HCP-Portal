@@ -93,8 +93,8 @@ product:
 
 # 特定の背景を有する患者に関する注意
 
-1. （1）血栓塞栓症の既往歴及びその素因のある患者
-	  血栓塞栓事象の発現を助長する可能性がある。
+1. 血栓塞栓症の既往歴及びその素因のある患者
+	血栓塞栓事象の発現を助長する可能性がある。
 
 # Downloads
 
@@ -110,7 +110,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzU4NDA5OSwtMTg4NjY5MzA2MiwxOT
-c3Mzk2MTI2LC0xOTk5NjgyMTUsMTE0MTg2MTUwOCwtMTI3MDQw
-NjAzOCwtNjUyNjM1MDE0XX0=
+eyJoaXN0b3J5IjpbMjQ5MTU3NDA3LC0xODg2NjkzMDYyLDE5Nz
+czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
+MDM4LC02NTI2MzUwMTRdfQ==
 -->
