@@ -133,7 +133,7 @@ product:
 
 本剤はP-糖蛋白の基質である。
 
-1. 併用注意（併用に注意すること）
+> 併用注意（併用に注意すること）
 
 | 薬剤名等 | 臨床症状・措置方法 | 機序・危険因子 |
 | --- | --- | --- |
@@ -145,8 +145,9 @@ product:
 
 ## 副作用
 
-1. 次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。
-	2. **重大な副作用**
+> 次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。
+
+1. **重大な副作用**
 		<特発性肺線維症>
 		1. **重度の下** 痢（3.3%）  
 			下痢症状がみられる場合は速やかに補液やロペラミド等の止瀉剤投与を行い、本剤による治療の中断を検討すること。これらの対症療法にもかかわらず持続するような重度の下痢の場合は、本剤による治療を中止し、再投与は行わないこと。［7.1参照］
@@ -227,7 +228,7 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzgzMDA1MywxMzMyODA2MzcwLDcwMD
+eyJoaXN0b3J5IjpbLTkyOTY4OTM2MCwxMzMyODA2MzcwLDcwMD
 cyNDE3MSwtMzIzNjU3MzIzLDIyNTY2NjE3NiwxMjAyNDYxNDc0
 LC05ODU2MzI4NjcsMjY0MTQ3NjQ5LC0xODg2NjkzMDYyLDE5Nz
 czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
