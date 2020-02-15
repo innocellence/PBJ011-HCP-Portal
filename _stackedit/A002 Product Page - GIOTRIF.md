@@ -35,34 +35,7 @@ indications:
       - link
       - link  
       - link
-      - link  
-
-  - indication:
-    title: Product/Brand Name® for Indicaiton X
-    supplemental: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor.
-    button: See all clinical data
-    button-url: #
-    links: 
       - link
-      - link
-      - link
-      - link  
-      - link
-      - link  
-      
-  - indication:
-    title: Product/Brand Name® for Indicaiton X
-    supplemental: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor.
-    button: See all clinical data
-    button-url: #
-    links: 
-      - link
-      - link
-      - link
-      - link  
-      - link
-      - link      
-      
   
 
 # resources
@@ -74,5 +47,5 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTU1NzY1MCw1OTE4MTk3OTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NTExMDgyOTgsNTkxODE5Nzk2XX0=
 -->
