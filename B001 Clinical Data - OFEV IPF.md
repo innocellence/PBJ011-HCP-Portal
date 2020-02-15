@@ -200,9 +200,22 @@ product:
 
 ## 臨床成績（有効性・安全性）
 
+1. 国際共同第Ⅲ相試験(試験1199.32)
+	特発性肺線維症患者513例（日本人55例）を対象としたプラセボ対照ランダム化二重盲検並行群間比較試験において、本剤150mg又はプラセボを1日2回、52週間経口投与した結果、主要評価項目である投与52週までの努力肺活量（FVC）の年間減少率（mL/年）は表1のとおりであり、本剤群とプラセボ群との比較において、統計学的に有意な差が認められた12）。ベースラインからのFVCの平均絶対変化量の推移を図1に示す。
 
+表1 FVC の年間減少率（mL/年）
 
-
+|   | 試験1199.32 |
+| --- | --- |
+| 本剤群 | プラセボ群 |
+| 全体集団 |
+| FVCの年間減少率［95%信頼区間］a）（例数） | -114.7［-144.8、-84.5］（309） | -239.9［-276.7、-203.1］（204） |
+| プラセボ群との差［95%信頼区間］
+## a）
+p 値 | 125.3［77.7、172.8］p\&lt;0.0001 |   |
+| ベースライン（mL） | 2756.8±735.1（309） | 2844.5±820.1（204） |
+| 投与52 週時（mL） | 2669.0±772.0（250） | 2664.4±834.0（165） |
+| 変化量（mL） | -90.9±242.7（250） | -201.8±305.9（165） |
 
 
 
@@ -220,9 +233,9 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzQ0OTQzMCwxMzMyODA2MzcwLDcwMD
-cyNDE3MSwtMzIzNjU3MzIzLDIyNTY2NjE3NiwxMjAyNDYxNDc0
-LC05ODU2MzI4NjcsMjY0MTQ3NjQ5LC0xODg2NjkzMDYyLDE5Nz
-czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
-MDM4LC02NTI2MzUwMTRdfQ==
+eyJoaXN0b3J5IjpbOTg0ODA3NDc3LDEzMzI4MDYzNzAsNzAwNz
+I0MTcxLC0zMjM2NTczMjMsMjI1NjY2MTc2LDEyMDI0NjE0NzQs
+LTk4NTYzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3Nz
+M5NjEyNiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYw
+MzgsLTY1MjYzNTAxNF19
 -->
