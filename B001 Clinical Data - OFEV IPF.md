@@ -147,7 +147,7 @@ product:
 
 > 次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。
 
-**特発性肺線維症**
+**<特発性肺線維症>**
 
 1. 重大な副作用
 	1. **重度の下** 痢（3.3%）  
@@ -162,8 +162,6 @@ product:
 	6. **間質性肺炎**（頻度不明）  
 		<br> 本剤の癌を対象とした臨床試験で間質性肺炎がみられており、胸部画像検査や呼吸機能検査で急激な悪化等の薬剤性の間質性肺炎の徴候がみられる場合は、本剤の投与を中止し、適切な処置を行うこと。
 2. その他の副作用
-
-**<特発性肺線維症>**
 
 |   | 10%以上 | 5%以上10%未満 | 5%未満 | 頻度不明 |
 | --- | --- | --- | --- | --- |
@@ -186,8 +184,7 @@ product:
 ## 適用上の注意及びその他の注意
 
 1. **適用上の注意**
-
-	薬剤交付時の注意
+2.薬剤交付時の注意
 	
 	1. PTP 包装の薬剤はPTP シートから取り出して服用するよう指導すること。PTP シートの誤飲により、硬い鋭角部が食道粘膜へ刺入し、更には穿孔を起こして縦隔洞炎等の重篤な合併症を併発することが報告されている。
 	2. 本剤は吸湿性があるので、服用直前にPTP シートから取り出すよう指導すること。また、アルミピロー包装注）のまま調剤を行うことが望ましい。
@@ -229,9 +226,9 @@ product:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjAxNDUyOCwxMzMyODA2MzcwLDcwMD
-cyNDE3MSwtMzIzNjU3MzIzLDIyNTY2NjE3NiwxMjAyNDYxNDc0
-LC05ODU2MzI4NjcsMjY0MTQ3NjQ5LC0xODg2NjkzMDYyLDE5Nz
-czOTYxMjYsLTE5OTk2ODIxNSwxMTQxODYxNTA4LC0xMjcwNDA2
-MDM4LC02NTI2MzUwMTRdfQ==
+eyJoaXN0b3J5IjpbODMyNzkyMjIwLDEzMzI4MDYzNzAsNzAwNz
+I0MTcxLC0zMjM2NTczMjMsMjI1NjY2MTc2LDEyMDI0NjE0NzQs
+LTk4NTYzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3Nz
+M5NjEyNiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYw
+MzgsLTY1MjYzNTAxNF19
 -->
