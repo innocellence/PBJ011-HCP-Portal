@@ -112,8 +112,8 @@ product:
 	<li>level 1 - #10</li>
 	<li>level 1 - #11		</li>
 		<ol start="14">
-			<li>level 1 - #9</li>
-			<li>level 1 - #10</li>
+			<li>level 1 - #11.14</li>
+			<li>level 1 - #11.15</li>
 		</ol>
 </ol>
 
@@ -413,7 +413,7 @@ a）投与群、性別、年齢及び身長を固定効果、切片及び時期�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzUzNTcxOCwxNzQ5MTcyMTAyLDQ1OD
+eyJoaXN0b3J5IjpbMTQyMjQ4NjMzMSwxNzQ5MTcyMTAyLDQ1OD
 UyMDQwOCw1MTEwMjkzOTIsOTkyNzk3NzkwLDk2NTI3NjUwMCwy
 ODk4MzkwMjksMTkzMDM5MDU0OSwyNDYxMTA5ODUsLTc0NzU0MD
 IzMywxMzMyODA2MzcwLDcwMDcyNDE3MSwtMzIzNjU3MzIzLDIy
