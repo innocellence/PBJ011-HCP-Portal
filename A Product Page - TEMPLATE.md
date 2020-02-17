@@ -1,7 +1,7 @@
 ---
 # base
 layout: A
-title: Product/Brand Name®
+title: Product/Brand Name ®
 
 # seo
 author: 日本ベーリンガーインゲルハイム株式会社
@@ -77,5 +77,5 @@ resource-button-url: #
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM4MjE5OTEsLTQyNzM3NTcyMl19
+eyJoaXN0b3J5IjpbLTI5NDEwOTk1OV19
 -->
