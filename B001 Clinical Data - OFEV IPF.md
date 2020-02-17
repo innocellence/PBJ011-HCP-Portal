@@ -108,9 +108,9 @@ product:
 
 # 特定の背景を有する患者に関する注意
 
-1. 血栓塞栓症の既往歴及びその素因のある患者。
+1. 血栓塞栓症の既往歴及びその素因のある患者。<br>
   血栓塞栓事象の発現を助長する可能性がある。
-2. 出血性素因のある患者、抗凝固剤治療を行っている患者。
+2. 出血性素因のある患者、抗凝固剤治療を行っている患者。<br>
   出血リスクを助長する可能性がある。
 3. 肝機能障害患者
   1. 中等度及び高度の肝機能障害（Child Pugh B、C）のある患者
@@ -401,10 +401,11 @@ a）投与群、性別、年齢及び身長を固定効果、切片及び時期�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyNzk3NzkwLDk2NTI3NjUwMCwyODk4Mz
-kwMjksMTkzMDM5MDU0OSwyNDYxMTA5ODUsLTc0NzU0MDIzMywx
-MzMyODA2MzcwLDcwMDcyNDE3MSwtMzIzNjU3MzIzLDIyNTY2Nj
-E3NiwxMjAyNDYxNDc0LC05ODU2MzI4NjcsMjY0MTQ3NjQ5LC0x
-ODg2NjkzMDYyLDE5NzczOTYxMjYsLTE5OTk2ODIxNSwxMTQxOD
-YxNTA4LC0xMjcwNDA2MDM4LC02NTI2MzUwMTRdfQ==
+eyJoaXN0b3J5IjpbOTE5MjM5ODc0LDk5Mjc5Nzc5MCw5NjUyNz
+Y1MDAsMjg5ODM5MDI5LDE5MzAzOTA1NDksMjQ2MTEwOTg1LC03
+NDc1NDAyMzMsMTMzMjgwNjM3MCw3MDA3MjQxNzEsLTMyMzY1Nz
+MyMywyMjU2NjYxNzYsMTIwMjQ2MTQ3NCwtOTg1NjMyODY3LDI2
+NDE0NzY0OSwtMTg4NjY5MzA2MiwxOTc3Mzk2MTI2LC0xOTk5Nj
+gyMTUsMTE0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNjUyNjM1MDE0
+XX0=
 -->
