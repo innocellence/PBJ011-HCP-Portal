@@ -115,8 +115,8 @@ product:
 3. 肝機能障害患者
 	1. 中等度及び高度の肝機能障害（Child Pugh B、C）のある患者 <br>
 	    治療上やむを得ないと判断される場合を除き、使用は避けること。使用する場合は、肝機能検査をより頻回に行うなど、慎重に患者の状態を観察すること。肝機能障害が悪化するおそれがある。また、中等度の肝機能障害（Child Pugh B）のある患者では血中濃度が上昇する。高度の肝機能障害（Child Pugh C）のある患者を対象とした有効性及び安全性を指標とした臨床試験は実施していない。[7.2、8.1、16.6.1参照]
-  2. 軽度の肝機能障害（Child Pugh A）のある患者
-    肝機能検査をより頻回に行うなど、慎重に患者の状態を観察すること。肝機能障害が悪化するおそれがある。[7.2、8.1、16.6.1参照]
+	  2. 軽度の肝機能障害（Child Pugh A）のある患者 <br>
+		  肝機能検査をより頻回に行うなど、慎重に患者の状態を観察すること。肝機能障害が悪化するおそれがある。[7.2、8.1、16.6.1参照]
 4. 生殖能を有する者
   本剤投与開始前に妊娠検査を実施し，投与中も適宜実施すること。妊娠可能な女性は本剤の投与中及び投与終了の少なくとも3カ月後までは極めて有効な避妊措置をとること。ホルモン避妊剤を服用中はホルモン剤以外の避妊法を併用すること。現時点で本剤がホルモン避妊剤の効果を減弱するかどうかは不明である。
 5. 妊婦
@@ -401,11 +401,11 @@ a）投与群、性別、年齢及び身長を固定効果、切片及び時期�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMDI5MzkyLDk5Mjc5Nzc5MCw5NjUyNz
-Y1MDAsMjg5ODM5MDI5LDE5MzAzOTA1NDksMjQ2MTEwOTg1LC03
-NDc1NDAyMzMsMTMzMjgwNjM3MCw3MDA3MjQxNzEsLTMyMzY1Nz
-MyMywyMjU2NjYxNzYsMTIwMjQ2MTQ3NCwtOTg1NjMyODY3LDI2
-NDE0NzY0OSwtMTg4NjY5MzA2MiwxOTc3Mzk2MTI2LC0xOTk5Nj
-gyMTUsMTE0MTg2MTUwOCwtMTI3MDQwNjAzOCwtNjUyNjM1MDE0
-XX0=
+eyJoaXN0b3J5IjpbNDU4NTIwNDA4LDUxMTAyOTM5Miw5OTI3OT
+c3OTAsOTY1Mjc2NTAwLDI4OTgzOTAyOSwxOTMwMzkwNTQ5LDI0
+NjExMDk4NSwtNzQ3NTQwMjMzLDEzMzI4MDYzNzAsNzAwNzI0MT
+cxLC0zMjM2NTczMjMsMjI1NjY2MTc2LDEyMDI0NjE0NzQsLTk4
+NTYzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIsMTk3NzM5Nj
+EyNiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNzA0MDYwMzhd
+fQ==
 -->
