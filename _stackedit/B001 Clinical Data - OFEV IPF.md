@@ -116,8 +116,8 @@ product:
 			<li>level 1 - #11.15</li>
 		</ol>
 		<ol class="level-2" start="14">
-			<li>level 1 - #11.14</li>
-			<li>level 1 - #11.15</li>
+			<li>level 1 - #14</li>
+			<li>level 1 - #15</li>
 		</ol>
 </ol>
 
@@ -417,11 +417,11 @@ a）投与群、性別、年齢及び身長を固定効果、切片及び時期�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTU2NzExLDE3NDkxNzIxMDIsNDU4NT
-IwNDA4LDUxMTAyOTM5Miw5OTI3OTc3OTAsOTY1Mjc2NTAwLDI4
-OTgzOTAyOSwxOTMwMzkwNTQ5LDI0NjExMDk4NSwtNzQ3NTQwMj
-MzLDEzMzI4MDYzNzAsNzAwNzI0MTcxLC0zMjM2NTczMjMsMjI1
-NjY2MTc2LDEyMDI0NjE0NzQsLTk4NTYzMjg2NywyNjQxNDc2ND
-ksLTE4ODY2OTMwNjIsMTk3NzM5NjEyNiwtMTk5OTY4MjE1XX0=
-
+eyJoaXN0b3J5IjpbLTExMzYzNDAzMDUsMTc0OTE3MjEwMiw0NT
+g1MjA0MDgsNTExMDI5MzkyLDk5Mjc5Nzc5MCw5NjUyNzY1MDAs
+Mjg5ODM5MDI5LDE5MzAzOTA1NDksMjQ2MTEwOTg1LC03NDc1ND
+AyMzMsMTMzMjgwNjM3MCw3MDA3MjQxNzEsLTMyMzY1NzMyMywy
+MjU2NjYxNzYsMTIwMjQ2MTQ3NCwtOTg1NjMyODY3LDI2NDE0Nz
+Y0OSwtMTg4NjY5MzA2MiwxOTc3Mzk2MTI2LC0xOTk5NjgyMTVd
+fQ==
 -->
