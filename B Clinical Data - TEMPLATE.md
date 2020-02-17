@@ -1,6 +1,6 @@
 ---
 # base
-layout: B
+layout: C
 title: Product/Brand Name® for Condition
 
 # seo
@@ -97,5 +97,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTI3OTE4M119
+eyJoaXN0b3J5IjpbLTE0OTk3OTg4OCwxOTA1Mjc5MTgzXX0=
 -->
