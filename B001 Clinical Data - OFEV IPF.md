@@ -74,7 +74,7 @@ product:
 通常、成人にはニンテダニブとして1回150mgを1日2回、朝・夕食後に経口投与する。なお、患者の状態によりニンテダニブとして1回100mgの1日2回投与へ減量する。
 
 
-## ＜用法・用量に関連する注意＞
+## 6. ＜用法・用量に関連する注意＞
 
 1. 下痢、悪心、嘔吐等の副作用が認められた場合は、対症療法などの適切な処置を行ったうえ、本剤の治療が可能な状態に回復するまでの間、減量又は治療の中断を検討すること。治療の中断後再開する場合は1回100mg、1日2回から再開することを検討すること。患者の状態に応じて1回150mg、1日2回へ増量することができる。再投与又は増量する場合は慎重に投与し、投与後は患者の状態を十分に観察すること。
 2. AST 又はALT が基準値上限の3倍を超えた場合は、本剤の減量又は治療の中断を行い、十分な経過観察を行うこと。治療を中断し投与を再開する場合には、AST 又はALT が投与前の状態に回復した後、1回100mg、1日2回から投与することとし、患者の状態に応じて1回150mg、1日2回へ増量することが
@@ -401,10 +401,10 @@ a）投与群、性別、年齢及び身長を固定効果、切片及び時期�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1Mjc2NTAwLDI4OTgzOTAyOSwxOTMwMz
-kwNTQ5LDI0NjExMDk4NSwtNzQ3NTQwMjMzLDEzMzI4MDYzNzAs
-NzAwNzI0MTcxLC0zMjM2NTczMjMsMjI1NjY2MTc2LDEyMDI0Nj
-E0NzQsLTk4NTYzMjg2NywyNjQxNDc2NDksLTE4ODY2OTMwNjIs
-MTk3NzM5NjEyNiwtMTk5OTY4MjE1LDExNDE4NjE1MDgsLTEyNz
-A0MDYwMzgsLTY1MjYzNTAxNF19
+eyJoaXN0b3J5IjpbOTkyNzk3NzkwLDk2NTI3NjUwMCwyODk4Mz
+kwMjksMTkzMDM5MDU0OSwyNDYxMTA5ODUsLTc0NzU0MDIzMywx
+MzMyODA2MzcwLDcwMDcyNDE3MSwtMzIzNjU3MzIzLDIyNTY2Nj
+E3NiwxMjAyNDYxNDc0LC05ODU2MzI4NjcsMjY0MTQ3NjQ5LC0x
+ODg2NjkzMDYyLDE5NzczOTYxMjYsLTE5OTk2ODIxNSwxMTQxOD
+YxNTA4LC0xMjcwNDA2MDM4LC02NTI2MzUwMTRdfQ==
 -->
