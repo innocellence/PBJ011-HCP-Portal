@@ -130,7 +130,9 @@ product:
 </ol>
 
 
-1. 
+<p>1.2 text</p>
+<p>		1.3.2 text</p>
+
 
 
 # 特定の背景を有する患者に関する注意
@@ -428,7 +430,7 @@ a）投与群、性別、年齢及び身長を固定効果、切片及び時期�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTA2NDE0LC0xMDg4NTQ1MjA3LC01Mz
+eyJoaXN0b3J5IjpbOTU2OTE3NzA0LC0xMDg4NTQ1MjA3LC01Mz
 I2NzU5MTAsMTc0OTE3MjEwMiw0NTg1MjA0MDgsNTExMDI5Mzky
 LDk5Mjc5Nzc5MCw5NjUyNzY1MDAsMjg5ODM5MDI5LDE5MzAzOT
 A1NDksMjQ2MTEwOTg1LC03NDc1NDAyMzMsMTMzMjgwNjM3MCw3
