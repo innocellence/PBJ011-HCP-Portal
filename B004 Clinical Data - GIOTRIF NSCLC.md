@@ -43,7 +43,7 @@ product:
 ---
 
 
-## 警告、禁忌及び効能又は効果に関連する注意
+#警告、禁忌及び効能又は効果に関連する注意
 
 ## 1. Sub Section Header
 
@@ -97,6 +97,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTQ1NzUyMSwtMTUxMzg2NDQwNSwyMT
-MyMzI0MjNdfQ==
+eyJoaXN0b3J5IjpbMjk1Nzk1ODI2LC0zNjk0NTc1MjEsLTE1MT
+M4NjQ0MDUsMjEzMjMyNDIzXX0=
 -->
