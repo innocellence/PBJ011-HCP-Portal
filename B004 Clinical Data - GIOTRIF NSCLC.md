@@ -24,7 +24,7 @@ breadcrumb:
     url: #
 
 # content 
-introduction: The product has been used to treat condition X since date Y. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempor.
+introduction: ジオトリフ®（一般名：アファチニブマレイン酸塩）は、ErbBファミリーを不可逆的に阻害する経口の抗悪性腫瘍剤／チロシンキナーゼ阻害剤です。
 
 # product table
 product:
@@ -97,5 +97,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM4NjQ0MDUsMjEzMjMyNDIzXX0=
+eyJoaXN0b3J5IjpbLTM1MTM3Njk5MiwtMTUxMzg2NDQwNSwyMT
+MyMzI0MjNdfQ==
 -->
