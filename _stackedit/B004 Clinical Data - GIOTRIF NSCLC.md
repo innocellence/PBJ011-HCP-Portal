@@ -24,7 +24,7 @@ breadcrumb:
     url: #
 
 # content 
-introduction: <![endif]--> ジオトリフ®（一般名：アファチニブマレイン酸塩）は、ErbBファミリーを不可逆的に阻害する経口の抗悪性腫瘍剤／チロシンキナーゼ阻害剤です。
+introduction: ジオトリフ®（一般名：アファチニブマレイン酸塩）は、ErbBファミリーを不可逆的に阻害する経口の抗悪性腫瘍剤／チロシンキナーゼ阻害剤です。
 
 # product table
 product:
@@ -43,7 +43,7 @@ product:
 ---
 
 
-# Section Header
+## 警告、禁忌及び効能又は効果に関連する注意
 
 ## 1. Sub Section Header
 
@@ -97,6 +97,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [^2]: Reference material
 [^3]: Reference material
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4ODIyMTc1LC0xNTEzODY0NDA1LDIxMz
-IzMjQyM119
+eyJoaXN0b3J5IjpbLTM2OTQ1NzUyMSwtMTUxMzg2NDQwNSwyMT
+MyMzI0MjNdfQ==
 -->
