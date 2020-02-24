@@ -2,7 +2,7 @@
 ---
 # base
 layout: B
-title: ジオトリフ® for NSCLC
+title: ジオトリフ®錠20mg・30mg・40mg・50mg
 
 # seo
 author: 日本ベーリンガーインゲルハイム株式会社
@@ -21,7 +21,7 @@ breadcrumb:
     label: ジオトリフ®
     url: #
   - level-3: 
-    label: ジオトリフ® for NSCLC
+    label: ジオトリフ®錠20mg・30mg・40mg・50mg
     url: #
 
 # content 
@@ -30,17 +30,17 @@ introduction: ジオトリフ®（一般名：アファチニブマレイン酸�
 # product table
 product:
   - name: 
-    label: name
-    value: ジオトリフ®
+    label: 製品名
+    value: ジオトリフ®錠 20mg・30mg・40mg・50mg
   - type: 
-    label: type
-    value: Prescription Drug
+    label: 区分
+    value: 処方箋医薬品
   - indication: 
-    label: indication
-    value: Indication/Condition
+    label: 適応症
+    value: EGFR遺伝子変異陽性の手術不能又は再発非小細胞肺癌
   - ingredient: 
-    label: ingredient
-    value: Molecule Name
+    label: 有効成分
+    value: アファチニブマレイン酸塩
 ---
 
 
@@ -92,7 +92,9 @@ EGFR遺伝子変異陽性の手術不能又は再発非小細胞肺癌
 # 重要な基本的注意
 
 （1）間質性肺疾患があらわれることがあるので、初期症状（呼吸困難、咳嗽、発熱等）の確認及び定期的な胸部画像検査の実施等、観察を十分に行うこと。また、必要に応じて動脈血酸素分圧（PaO<sub>2</sub>）、動脈血酸素飽和度（SpO<sub>2</sub>）、肺胞気動脈血酸素分圧較差（A-aDO<sub>2</sub>）、肺拡散能力（DL<sub>co</sub>）等の検査を行うこと。  
+
 （2）ALT（GPT）、AST（GOT）、ビリルビン等の上昇を伴う肝機能障害があらわれることがあるので、本剤投与開始前及び本剤投与中は定期的に肝機能検査を行い、患者の状態を十分に観察すること。  
+
 （3）心不全等の重篤な心障害があらわれることがあるので、本剤投与開始前には患者の心機能を確認すること。また、本剤投与中は心症状の発現状況・重篤度等に応じて適宜心機能検査（心エコー等）を行い、患者の状態（左室駆出率の変動を含む）を十分に観察すること。
 
 
@@ -424,7 +426,7 @@ log P=4.7（pH9以上）、log D=3.8（pH7.4）
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg1NjUwOTQsLTEwOTA2MjMzOTcsLT
-M4MzgzODY3OSwtMzY5NDU3NTIxLC0xNTEzODY0NDA1LDIxMzIz
-MjQyM119
+eyJoaXN0b3J5IjpbMTAzNzkzODEwOCwtMjA2ODU2NTA5NCwtMT
+A5MDYyMzM5NywtMzgzODM4Njc5LC0zNjk0NTc1MjEsLTE1MTM4
+NjQ0MDUsMjEzMjMyNDIzXX0=
 -->
